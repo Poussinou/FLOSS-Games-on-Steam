@@ -13,6 +13,6 @@ Here is the list of the open source games that are available on Steam. Enjoy !
 - Screeps: [game](https://store.steampowered.com/app/464350/Screeps/), [source code](https://github.com/screeps/screeps) and [website](https://screeps.com/)
 - Simutrans: [game](http://store.steampowered.com/app/434520/Simutrans/) and [source code](https://github.com/aburch/simutrans)
 - Tales of Maj'Eyal: [game](http://store.steampowered.com/app/259680/Tales_of_MajEyal/) and [source code](https://te4.org/download)
-- Teeworlds: [game](http://store.steampowered.com/app/380840/Teeworlds/), [source code](https://github.com/teeworlds/teeworlds) and [website](https://www.teeworlds.com/)
+- Teeworlds: [game](http://store.steampowered.com/app/380840/Teeworlds/), [source code](https://github.com/teeworlds) and [website](https://www.teeworlds.com/)
 - The Castle Doctrine: [game](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) and [source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie)
 - Wyrmsun: [game](http://store.steampowered.com/app/370070/Wyrmsun/) and [source code](https://github.com/andrettin/wyrmsun)
