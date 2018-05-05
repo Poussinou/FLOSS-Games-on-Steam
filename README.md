@@ -6,8 +6,11 @@ Here is the list of the open source games that are available on Steam. Enjoy !
 (do not hesite to send a pull request to add one)
 
 - Battle for Wesnoth: [game](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/), [source code](https://github.com/wesnoth/wesnoth) and [website](https://www.wesnoth.org/)
+- Cendric: [game](https://store.steampowered.com/app/681460/Cendric/), [source code](https://github.com/tizian/Cendric2) and [website](http://cendric.ch/)
+- Crystal Picnic: [game](https://store.steampowered.com/app/415890/Crystal_Picnic/), [source code](https://github.com/Nooskewl/crystal-picnic) and [website](https://nooskewl.ca/crystal-picnic/)
 - Endless Sky: [game](http://store.steampowered.com/app/404410/Endless_Sky/) and [source code](https://github.com/endless-sky)
 - MegaGlest: [game](http://store.steampowered.com/app/578870/MegaGlest/) and [source code](https://github.com/MegaGlest)
+- Monster RPG 2: [game](https://store.steampowered.com/app/409370/Monster_RPG_2/), [source code](https://github.com/Nooskewl/monster-rpg-2) and [website](https://nooskewl.ca/monster-rpg-2/)
 - Relic Hunters Zero: [game](http://store.steampowered.com/app/382490/Relic_Hunters_Zero/) and [source code](https://github.com/mventurelli/relichunterszero)
 - Ryzom: [game](http://store.steampowered.com/app/373720/Ryzom/) and [source code](https://bitbucket.org/account/user/ryzom/projects/PROJ)
 - Screeps: [game](https://store.steampowered.com/app/464350/Screeps/), [source code](https://github.com/screeps/screeps) and [website](https://screeps.com/)
