@@ -18,4 +18,5 @@ Here is the list of the open source games that are available on Steam. Enjoy !
 - Tales of Maj'Eyal: [game](http://store.steampowered.com/app/259680/Tales_of_MajEyal/) and [source code](https://te4.org/download)
 - Teeworlds: [game](http://store.steampowered.com/app/380840/Teeworlds/), [source code](https://github.com/teeworlds) and [website](https://www.teeworlds.com/)
 - The Castle Doctrine: [game](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) and [source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie)
+- Vulture for NetHack: [game](https://store.steampowered.com/app/341390/Vulture_for_NetHack/), [source code](http://www.darkarts.co.za/vulture-for-nethack) and [website](http://www.darkarts.co.za/vulture-for-nethack)
 - Wyrmsun: [game](http://store.steampowered.com/app/370070/Wyrmsun/) and [source code](https://github.com/andrettin/wyrmsun)
