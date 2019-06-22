@@ -25,26 +25,34 @@ Crystal Picnic is a lighthearted and colorful tribute to the classic era of acti
 Endless Sky is a 2D space trading and combat game inspired by the classic Escape Velocity series. Work your way up from a relatively wimpy shuttle, cargo ship, or fighter, to a highly upgraded and customized flagship or to a massive fleet of warships or freighters. 
 
 * ### KeeperRL
-[Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](http://keeperrl.com/wiki/index.php?title=Main_Page) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News/) | [Forum](https://keeperrl.com/forum/)
+[Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](http://keeperrl.com/wiki/index.php?title=Main_Page) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News/) | [Forums](https://keeperrl.com/forum/)
 
 Ambitious dungeon simulator with roguelike and RPG elements. Take the role of an evil wizard and study the methods of black magic. Equip your minions and explore the world, murder innocent villagers and burn their homes. Build your dungeon, lay traps and prepare for an assault of angry heroes. 
 
 * ### MegaGlest
-[Game](https://store.steampowered.com/app/578870/MegaGlest/) | [Source code](https://github.com/MegaGlest) | [Website](https://megaglest.org/)
+[Game on Steam](https://store.steampowered.com/app/578870/MegaGlest/) | [Tutorials & Help](https://docs.megaglest.org/Main_Page) | [Source code](https://github.com/MegaGlest) | [Website](https://megaglest.org/) | [News](https://megaglest.org/news) | [Forums](https://forum.megaglest.org/) | [Donate](https://megaglest.org/donations)
 
-MegaGlest is a 3d real time strategy game with a very strong AI. Single player games and especially multiplayer co-op games are much fun. The game already has a lot of content and it is very easy to make new content, especially new maps. 
+MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, where you control the armies of one of seven different factions: Tech, Magic, Egypt, Indians, Norsemen, Persian or Romans. The game is setup in one of 17 naturally looking settings, which -like the unit models- are crafted with great appreciation for detail.
 
 * ### Monster RPG 2
-[Game](https://store.steampowered.com/app/409370/Monster_RPG_2/) | [Source code](https://github.com/Nooskewl/monster-rpg-2) | [Website](https://nooskewl.ca/monster-rpg-2/)
+[Game on Steam](https://store.steampowered.com/app/409370/Monster_RPG_2/) | [(incomplete) Source code](https://github.com/kraekin/monster-rpg-2) | [Website](https://nooskewl.ca/monster-rpg-2/)
+
+Monster RPG 2 is a fantasy quest that spans continents and worlds and lets you take a simple villager and develop her into a hero with the power to save her world. 
 
 * ### One Hour One Life
-[Game](https://store.steampowered.com/app/595690/One_Hour_One_Life/) | [Source code](https://github.com/jasonrohrer/OneLife) | [Website](https://onehouronelife.com/)
+[Game on Steam](https://store.steampowered.com/app/595690/One_Hour_One_Life/) | [Source code](https://github.com/jasonrohrer/OneLife) | [Website](https://onehouronelife.com/) | [News](http://onehouronelife.com/newsPage.php) | [Forums](https://onehouronelife.com/forums/)
+
+A multiplayer survival game of parenting and civilization building. Get born to another player as your mother. Live an entire life in one hour. Have babies of your own in the form of other players. Leave a legacy for the next generation as you help to rebuild civilization from scratch. Updated weekly. 
 
 * ### Relic Hunters Zero
-[Game](https://store.steampowered.com/app/382490/Relic_Hunters_Zero/) | [Source code](https://github.com/mventurelli/relichunterszero) | [Website](https://relichunters.com.br/)
+[Game on Steam](https://store.steampowered.com/app/382490/Relic_Hunters_Zero/) | [Source code](https://github.com/mventurelli/relichunterszero) | [Website](https://relichunters.com.br/) | [Forums](https://www.relichunters.com.br/forums/)
+
+Relic Hunters Zero is a game about shooting evil space ducks and evil space turtles with tiny cute guns. It’s fast, it’s tactical, and feels delicious and smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander. 
 
 * ### Ryzom
-[Game](https://store.steampowered.com/app/373720/Ryzom/) | [Source code](https://bitbucket.org/account/user/ryzom/projects/PROJ) | [Website](https://ryzom.com/)
+[Game on Steam](https://store.steampowered.com/app/373720/Ryzom/) | [Source code](https://bitbucket.org/account/user/ryzom/projects/PROJ) | [Website](https://ryzom.com/) | [News](https://app.ryzom.com/app_forum/index.php?page=forum/view/1839) | [Forums](https://app.ryzom.com/app_forum/)
+
+Enter a unique science fantasy MMORPG and dive into a unique organic living world !
 
 * ### Screeps
 [Game](https://store.steampowered.com/app/464350/Screeps/) | [Source code](https://github.com/screeps/screeps) | [Website](https://screeps.com/)
