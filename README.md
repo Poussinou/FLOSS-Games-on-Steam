@@ -10,7 +10,7 @@ Here is a list of open source games that are available on Steam. Enjoy ! Improve
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
 * ### Cendric
-[Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Tutorials & Help](https://cendric.gamepedia.com/Cendric_Wiki) | [Source code](https://github.com/tizian/Cendric2) | [Website](http://cendric.ch/)
+[Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Tutorials & Help](https://help.fandom.com/wiki/Contents) | [Source code](https://github.com/tizian/Cendric2) | [Website](http://cendric.ch/)
 
 Cendric combines 2D RPG and Platformer elements in one indie game, featuring both a sidescroller and top-down view. The player explore a world by completing levels and quests, following the story of a boy with no memory and discovering the magical but dangerous world of Admantris. 
 
@@ -25,7 +25,7 @@ Crystal Picnic is a lighthearted and colorful tribute to the classic era of acti
 Endless Sky is a 2D space trading and combat game inspired by the classic Escape Velocity series. Work your way up from a relatively wimpy shuttle, cargo ship, or fighter, to a highly upgraded and customized flagship or to a massive fleet of warships or freighters. 
 
 * ### KeeperRL
-[Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](http://keeperrl.com/wiki/index.php?title=Main_Page) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News/) | [Forums](https://keeperrl.com/forum/)
+[Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](https://miki151.github.io/keeperrl_wiki/Gameplay_Guide/) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News)
 
 Ambitious dungeon simulator with roguelike and RPG elements. Take the role of an evil wizard and study the methods of black magic. Equip your minions and explore the world, murder innocent villagers and burn their homes. Build your dungeon, lay traps and prepare for an assault of angry heroes. 
 
@@ -55,40 +55,50 @@ Relic Hunters Zero is a game about shooting evil space ducks and evil space turt
 Enter a unique science fantasy MMORPG and dive into a unique organic living world !
 
 * ### Screeps
-[Game](https://store.steampowered.com/app/464350/Screeps/) | [Source code](https://github.com/screeps/screeps) | [Website](https://screeps.com/)
+[Game on Steam](https://store.steampowered.com/app/464350/Screeps/) | [Source code](https://github.com/screeps/screeps) | [Website](https://screeps.com/) | [News](https://screeps.com/forum/category/5/news-announcements) | [Forums](https://screeps.com/forum/)
+
+Screeps is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.
 
 * ### Simutrans
-[Game](https://store.steampowered.com/app/434520/Simutrans/) | [Source code](https://github.com/aburch/simutrans) | [Website](https://www.simutrans.com/en/)
+[Game on Steam](https://store.steampowered.com/app/434520/Simutrans/) | [Tutorials & Help](https://www.simutrans.com/help/) | [Source code](https://github.com/aburch/simutrans) | [Website](https://www.simutrans.com/) | [News](https://forum.simutrans.com/index.php/board,2.0.html?PHPSESSID=256b73a4943aec9b8280bd57a261aa13) | [Forums](https://forum.simutrans.com/)
+
+Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions
 
 * ### Tales of Maj'Eyal
-[Game](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Source code](https://te4.org/download) | [Website](https://te4.org/)
+[Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Source code](https://te4.org/download) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
+
+Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of...
 
 * ### Teeworlds
-[Game](http://store.steampowered.com/app/380840/Teeworlds/) | [Source code](https://github.com/teeworlds) | [Website](https://www.teeworlds.com/)
+[Game on Steam](http://store.steampowered.com/app/380840/Teeworlds/) | [Source code](https://github.com/teeworlds) | [Website](https://www.teeworlds.com/) | [News](https://www.teeworlds.com/forum/viewforum.php?id=7) | [Forums](https://www.teeworlds.com/forum/)
+
+Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!
 
 * ### The Castle Doctrine
-[Game](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Website](http://thecastledoctrine.net/)
+[Game on Steam](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Website](http://thecastledoctrine.net/)
+
+The Castle Doctrine is a massively-multiplayer game of burglary and home defense. It's 1991, and things are bad. You're a guy with a house and family. Other players are coming to take what's yours. Build security to stop them. Study their houses, buy tools, and break in to take what's theirs.
 
 * ### The Castles of Dr. Creep
-[Game](https://store.steampowered.com/app/517930/The_Castles_of_Dr_Creep/) | [Source code](https://github.com/segrax/DrCreep) | [Website](http://creep.sourceforge.net/)
+[Game on Steam](https://store.steampowered.com/app/517930/The_Castles_of_Dr_Creep/) | [Source code](https://github.com/segrax/DrCreep) | [Website](http://creep.sourceforge.net/)
 
 * ### The Secret of Tremendous Corporation
-[Game](https://store.steampowered.com/app/380140/The_Secret_of_Tremendous_Corporation/) | [Source code](https://github.com/dos1/AdventureTheGame) | [Website](https://tremendouscorp.com/)
+[Game on Steam](https://store.steampowered.com/app/380140/The_Secret_of_Tremendous_Corporation/) | [Source code](https://github.com/dos1/AdventureTheGame) | [Website](https://tremendouscorp.com/)
 
 * ### Trigger Time
-[Game](https://store.steampowered.com/app/512920/Trigger_Time/) | [Source code](https://github.com/Sheph/TriggerTime)
+[Game on Steam](https://store.steampowered.com/app/512920/Trigger_Time/) | [Source code](https://github.com/Sheph/TriggerTime)
 
 * ### Uebergame
-[Game](https://store.steampowered.com/app/391780/Uebergame/) | [Source code](https://github.com/Duion/Uebergame) | [Website](https://duion.com/games/uebergame/main)
+[Game on Steam](https://store.steampowered.com/app/391780/Uebergame/) | [Source code](https://github.com/Duion/Uebergame) | [Website](https://duion.com/games/uebergame/main)
 
 * ### Vulture for NetHack
-[Game](https://store.steampowered.com/app/341390/Vulture_for_NetHack/) | [Source code](http://www.darkarts.co.za/vulture-for-nethack) | [Website](http://www.darkarts.co.za/vulture-for-nethack)
+[Game on Steam](https://store.steampowered.com/app/341390/Vulture_for_NetHack/) | [Source code](http://www.darkarts.co.za/vulture-for-nethack) | [Website](http://www.darkarts.co.za/vulture-for-nethack)
 
 * ### Wyrmsun
-[Game](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source code](https://github.com/andrettin/wyrmsun) | [Website](http://andrettin.github.io/)
+[Game on Steam](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source code](https://github.com/andrettin/wyrmsun) | [Website](http://andrettin.github.io/)
 
 * ### Zero-K
-[Game](https://store.steampowered.com/app/334920/ZeroK/) | [Source code](https://github.com/ZeroK-RTS) | [Website](http://zero-k.info/)
+[Game on Steam](https://store.steampowered.com/app/334920/ZeroK/) | [Source code](https://github.com/ZeroK-RTS) | [Website](http://zero-k.info/)
 
 
 #### To-Do
