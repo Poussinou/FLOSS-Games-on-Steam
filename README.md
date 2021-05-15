@@ -1,8 +1,8 @@
 # Free and Open-source Games - Steam
 
-Here is a list of open source games that are available on [Steam](https://store.steampowered.com/). Enjoy ! Improve the list if you know another one !
+Here is a list of free/libre and open source games that are available on [Steam](https://store.steampowered.com/). Enjoy ! Improve the list if you know another one !
 
-Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play obvioulsy aren't open source.
+Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play sometimes aren't open source.
 
 * ### Amnesia: A Machine for Pigs
 [Game on Steam](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/) | [Source Code](https://github.com/FrictionalGames/AmnesiaAMachineForPigs) | [Website](http://www.aamfp.com/info)
@@ -38,6 +38,11 @@ Crystal Picnic is a lighthearted and colorful tribute to the classic era of acti
 [Game on Steam](http://store.steampowered.com/app/404410/Endless_Sky/) | [Tutorials & Help](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) | [Source code](https://github.com/endless-sky) | [Website](http://endless-sky.github.io/) | [News](http://endless-sky.github.io/blog.html)
 
 Endless Sky is a 2D space trading and combat game inspired by the classic Escape Velocity series. Work your way up from a relatively wimpy shuttle, cargo ship, or fighter, to a highly upgraded and customized flagship or to a massive fleet of warships or freighters. 
+
+* ### HookSharks
+[Game on Steam](https://store.steampowered.com/app/1266390/HookSharks/) | [Source Code](https://github.com/DoubleTroubleGames/hooksharks)
+
+Hooksharks is a local multiplayer game about glory, and most of all, battling sharks with giant hooks attached to them.
 
 * ### KeeperRL
 [Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](https://miki151.github.io/keeperrl_wiki/Gameplay_Guide/) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News)
@@ -79,10 +84,20 @@ Enter a unique science fantasy MMORPG and dive into a unique organic living worl
 
 Screeps is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.
 
+* ### shapez.io
+[Game on Steam](https://store.steampowered.com/app/1318690/shapezio/) | [Source Code](https://github.com/tobspr/shapez.io) | [Website](https://shapez.io/)
+
+shapez.io is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.
+
 * ### Simutrans
 [Game on Steam](https://store.steampowered.com/app/434520/Simutrans/) | [Tutorials & Help](https://www.simutrans.com/help/) | [Source code](https://github.com/aburch/simutrans) | [Website](https://www.simutrans.com/) | [News](https://forum.simutrans.com/index.php/board,2.0.html?PHPSESSID=256b73a4943aec9b8280bd57a261aa13) | [Forums](https://forum.simutrans.com/)
 
 Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions
+
+* ### Snake
+[Game on Steam](https://store.steampowered.com/app/1332800/Snake/) | [Source Code](https://github.com/Romans-I-XVI/MonoGame-Snake) | [Website](https://romansixvigaming.com/title/snake/)
+
+Play the classic that transcends generations.
 
 * ### Tales of Maj'Eyal
 [Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Source code](https://te4.org/download) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
@@ -108,6 +123,11 @@ Explore thirteen different castles, overcoming a variety of puzzles and traps wh
 [Game on Steam](https://store.steampowered.com/app/380140/The_Secret_of_Tremendous_Corporation/) | [Source code](https://github.com/dos1/AdventureTheGame) | [Website](https://tremendouscorp.com/)
 
 Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what happened to indie devs and save the gaming industry!
+
+* ### Tomantenquark
+[Game on Steam](https://store.steampowered.com/app/1274540/Tomatenquark/) | [Source Code](https://github.com/tomatenquark/code) | [Website](https://tomatenquark.org/)
+
+Tomatenquark is a multiplayer & singleplayer first person shooter, a community homage to Cube 2: Sauerbraten.
 
 * ### Trigger Time
 [Game on Steam](https://store.steampowered.com/app/512920/Trigger_Time/) | [Source code](https://github.com/Sheph/TriggerTime)
