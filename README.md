@@ -1,13 +1,28 @@
 # Free and Open-source Games - Steam
 
-Here is a list of open source games that are available on Steam. Enjoy ! Improve the list if you know another one !
+Here is a list of open source games that are available on [Steam](https://store.steampowered.com/). Enjoy ! Improve the list if you know another one !
 
-(We include only games where every assets, ressource files, source code, etc is free and open-source. We won't include open source game engine where you have to own a copy of the game to play it because the ressources needed to play obvioulsy aren't open source)
+Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play obvioulsy aren't open source.
+
+* ### Amnesia: A Machine for Pigs
+[Game on Steam](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/) | [Source Code](https://github.com/FrictionalGames/AmnesiaAMachineForPigs) | [Website](http://www.aamfp.com/info)
+
+From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first-person horrorgame that will drag you to the depths of greed, power and madness. It will bury its snout into your ribs and it will eat your heart.
+
+* ### Amnesia: The Dark Descent
+[Game on Steam](https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent) | [Source Code](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) | [Website](http://www.amnesiagame.com/#main)
+
+Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.
 
 * ### Battle for Wesnoth
 [Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Source code](https://github.com/wesnoth/wesnoth) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
+
+* ### BYTEPATH
+[Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH) |
+
+BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies.
 
 * ### Cendric
 [Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Tutorials & Help](https://help.fandom.com/wiki/Contents) | [Source code](https://github.com/tizian/Cendric2) | [Website](http://cendric.ch/)
@@ -28,6 +43,11 @@ Endless Sky is a 2D space trading and combat game inspired by the classic Escape
 [Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](https://miki151.github.io/keeperrl_wiki/Gameplay_Guide/) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News)
 
 Ambitious dungeon simulator with roguelike and RPG elements. Take the role of an evil wizard and study the methods of black magic. Equip your minions and explore the world, murder innocent villagers and burn their homes. Build your dungeon, lay traps and prepare for an assault of angry heroes. 
+
+* ### Koi Farm
+[Game on Steam](https://store.steampowered.com/app/1518810/Koi_Farm/) | [Source Code](https://github.com/jobtalle/Koi)
+
+Koi Farm is a game about playing with koi ponds. Explore an infinite number of procedurally generated koi patterns by crossbreeding your fish, and discover new mutations as you go along.
 
 * ### MegaGlest
 [Game on Steam](https://store.steampowered.com/app/578870/MegaGlest/) | [Tutorials & Help](https://docs.megaglest.org/Main_Page) | [Source code](https://github.com/MegaGlest) | [Website](https://megaglest.org/) | [News](https://megaglest.org/news) | [Forums](https://forum.megaglest.org/) | [Donate](https://megaglest.org/donations)
@@ -75,34 +95,55 @@ Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and
 Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!
 
 * ### The Castle Doctrine
-[Game on Steam](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Website](http://thecastledoctrine.net/)
+[Game on Steam](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Tutorials & Help](https://thecastledoctrine.fandom.com/wiki/The_Castle_Doctrine_Wiki) | [Source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Website](http://thecastledoctrine.net/) | [News](http://thecastledoctrine.net/news.php) | [Forums](http://thecastledoctrine.net/forums/) | [Donate](http://thecastledoctrine.net/buy.php)
 
 The Castle Doctrine is a massively-multiplayer game of burglary and home defense. It's 1991, and things are bad. You're a guy with a house and family. Other players are coming to take what's yours. Build security to stop them. Study their houses, buy tools, and break in to take what's theirs.
 
 * ### The Castles of Dr. Creep
-[Game on Steam](https://store.steampowered.com/app/517930/The_Castles_of_Dr_Creep/) | [Source code](https://github.com/segrax/DrCreep) | [Website](http://creep.sourceforge.net/)
+[Game on Steam](https://store.steampowered.com/app/517930/The_Castles_of_Dr_Creep/) | [Tutorials & Help](http://creep.sourceforge.net/howtoplay.shtml) | [Source code](https://github.com/segrax/DrCreep) | [Website](http://creep.sourceforge.net/) | [Forums](https://sourceforge.net/p/creep/discussion/)
+
+Explore thirteen different castles, overcoming a variety of puzzles and traps while you attempt to escape.
 
 * ### The Secret of Tremendous Corporation
 [Game on Steam](https://store.steampowered.com/app/380140/The_Secret_of_Tremendous_Corporation/) | [Source code](https://github.com/dos1/AdventureTheGame) | [Website](https://tremendouscorp.com/)
 
+Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what happened to indie devs and save the gaming industry!
+
 * ### Trigger Time
 [Game on Steam](https://store.steampowered.com/app/512920/Trigger_Time/) | [Source code](https://github.com/Sheph/TriggerTime)
+
+Trigger Time is a story-driven, top-down Shoot 'em up with a fun gravity gun and physics puzzles to solve. Blast your way through 9 levels filled with enemies, hazards and bizarre bosses. Along the way you'll take control of vehicles, pick up weapons, items and boosters.
 
 * ### Uebergame
 [Game on Steam](https://store.steampowered.com/app/391780/Uebergame/) | [Source code](https://github.com/Duion/Uebergame) | [Website](https://duion.com/games/uebergame/main)
 
+A truly free and open source multiplayer shooter, no strings attached. Have casual deathmatch matches on various scenarios. Build your own levels with the ingame editor and assets that come with the game, or just play around and use it as a sandbox.
+
 * ### Vulture for NetHack
 [Game on Steam](https://store.steampowered.com/app/341390/Vulture_for_NetHack/) | [Source code](http://www.darkarts.co.za/vulture-for-nethack) | [Website](http://www.darkarts.co.za/vulture-for-nethack)
 
+Vulture for NetHack is an isometric graphical interface for the roguelike engine: NetHack, the most celebrated member of the ancient and honorable family of games descended from Rogue and hence known as “roguelike”: bare-bones ASCII-graphics adventures set in randomly generated dungeons, in which the player fights monsters and collects items until he or she dies.
+
+* ### Warzone 2100
+[Game on Steam](https://store.steampowered.com/app/1241950/Warzone_2100/) | [Tutorials & Help](https://betaguide.wz2100.net/) | [Source Code](https://github.com/Warzone2100/warzone2100) | [Website](https://wz2100.net) | [Forums](https://forums.wz2100.net/) | [Donate](https://donations.wz2100.net/)
+
+In the late 21st century, the world's civilizations are wiped out by a series of nuclear strikes, seemingly caused by a massive malfunction of the new NASDA (North American Strategic Defense Agency) strategic defense system. Warzone 2100, released in 1999 and developed by Pumpkin Studios, was a ground-breaking and innovative 3D real-time strategy game.
+
 * ### Wyrmsun
-[Game on Steam](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source code](https://github.com/andrettin/wyrmsun) | [Website](http://andrettin.github.io/)
+[Game on Steam](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source code](https://github.com/andrettin/wyrmsun) | [Website](https://andrettin.github.io/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=93)
+
+Wyrmsun is a real-time strategy game which features elements of mythology, history and fiction with retro-style graphics, 3 playable civilizations, story-based scenarios, playable on a huge map. There are dozens of units, buildings and technologies
 
 * ### Zero-K
-[Game on Steam](https://store.steampowered.com/app/334920/ZeroK/) | [Source code](https://github.com/ZeroK-RTS) | [Website](http://zero-k.info/)
+[Game on Steam](https://store.steampowered.com/app/334920/ZeroK/) | [Source code](https://github.com/ZeroK-RTS) | [Website](https://zero-k.info/) | [Forums](https://zero-k.info/Forum) | [Donate](https://zero-k.info/Contributions)
 
+Zero-K is an expansive Real Time Strategy game. Fight epic battles over land, air and sea on 100s of maps. Manipulate the terrain and throw units around. Explore an abandoned galaxy, solo or co-op, in 70 campaign missions. Hop online for a tense 1v1 or massive battles with up to 32 players. 
 
 #### To-Do
-* Addons supported/extendable?
-* Platforms
-* Cost
-* Direct Download
+* Add screenshots (help needed)
+* Addons supported/extendable ?
+* Platforms supported ?
+* Cost ?
+* Add license (and specificaitons for assets, most of the time they aren't floss) ?
+* Link to Direct Download ?
+* Host the last executable file or the source code in this repo if not available on Github ?
