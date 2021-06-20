@@ -159,6 +159,11 @@ Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and
 
 Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!
 
+* ## Termite
+[Game on Steam](https://store.steampowered.com/app/972560/Termite/) | [Source Code](https://github.com/milgra/termite)
+
+Termite is a psychedelic real-time action strategy experience. You are the leader of a termite hive with three objectives: collect food, produce ants and destroy alien colonies.
+
 * ## The Castle Doctrine
 [Game on Steam](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Tutorials & Help](https://thecastledoctrine.fandom.com/wiki/The_Castle_Doctrine_Wiki) | [Source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Website](http://thecastledoctrine.net/) | [News](http://thecastledoctrine.net/news.php) | [Forums](http://thecastledoctrine.net/forums/) | [Donate](http://thecastledoctrine.net/buy.php)
 
