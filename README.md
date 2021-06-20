@@ -15,7 +15,7 @@ From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first
 Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.
 
 * ## Battle for Wesnoth
-[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Source code](https://github.com/wesnoth/wesnoth) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
+[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
@@ -25,7 +25,7 @@ The Battle for Wesnoth is an open source, turn-based strategy game with a high f
 BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies.
 
 * ## Cendric
-[Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Tutorials & Help](https://help.fandom.com/wiki/Contents) | [Source code](https://github.com/tizian/Cendric2) | [Website](http://cendric.ch/)
+[Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Source Code](https://github.com/tizian/Cendric2) | [Tutorials & Help](https://help.fandom.com/wiki/Contents) | [Website](http://cendric.ch/)
 
 Cendric combines 2D RPG and Platformer elements in one indie game, featuring both a sidescroller and top-down view. The player explore a world by completing levels and quests, following the story of a boy with no memory and discovering the magical but dangerous world of Admantris. 
 
@@ -35,7 +35,7 @@ Cendric combines 2D RPG and Platformer elements in one indie game, featuring bot
 The Psychedelic Tunnel-Runner.
 
 * ## Crystal Picnic
-[Game on Steam](https://store.steampowered.com/app/415890/Crystal_Picnic/) | [Tutorials & Help](https://github.com/Cloudxtreme/crystal-picnic) | [(incomplete) Source code](https://github.com/Cloudxtreme/crystal-picnic) | [Website](https://nooskewl.ca/crystal-picnic/)
+[Game on Steam](https://store.steampowered.com/app/415890/Crystal_Picnic/) | [Tutorials & Help](https://github.com/Cloudxtreme/crystal-picnic) | [(incomplete) Source Code](https://github.com/Cloudxtreme/crystal-picnic) | [Website](https://nooskewl.ca/crystal-picnic/)
 
 Crystal Picnic is a lighthearted and colorful tribute to the classic era of action RPGs! Join a sarcastic gardener and a wannabe knight as they journey across the kingdom chasing after ants who stole magic crystals from the castle.
 
@@ -104,6 +104,11 @@ A multiplayer survival game of parenting and civilization building. Get born to 
 
 Manga are comics created in Japan. The problem for most people is, as they're made in Japan they're only produced in Japanese; someone has to translate them to English! Is one man able to accomplish this? Is there more to his team's relationships other than business? Can everything in a translator's life be simple and clear?
 
+* ## OpenTTD
+[Game on Steam](https://store.steampowered.com/app/1536610/OpenTTD/) | [Source Code](https://github.com/OpenTTD) | [Tutorials & Help](https://wiki.openttd.org/en/) | [Website](https://www.openttd.org/) | [Forums](https://www.tt-forums.net/viewforum.php?f=55) | [Donate](https://www.openttd.org/donate.html)
+
+OpenTTD is a business simulation game in which players earn money by transporting passengers and cargo via road, rail, water, and air. It is an open-source remake and expansion of the 1995 Chris Sawyer video game Transport Tycoon Deluxe.
+
 * ## Penumbra Overture
 [Game on Steam](https://store.steampowered.com/app/22180/Penumbra_Overture/) | [Source Code](https://github.com/FrictionalGames/PenumbraOverture) | [Website](https://www.penumbragame.com/index.php)
 
@@ -115,17 +120,17 @@ Penumbra: Overture is a first person survival horror game, emphasizing on surviv
 Building on over 12 years of gameplay design, Red Eclipse 2 focuses on fast paced, agile, easily accessible first person shooter gameplay. For creators, the full power of the Tesseract engine is at your fingertips in the included realtime multiplayer editor.
 
 * ## Relic Hunters Zero
-[Game on Steam](https://store.steampowered.com/app/382490/Relic_Hunters_Zero/) | [Source code](https://github.com/mventurelli/relichunterszero) | [Website](https://relichunters.com.br/) | [Forums](https://www.relichunters.com.br/forums/)
+[Game on Steam](https://store.steampowered.com/app/382490/Relic_Hunters_Zero/) | [Source Code](https://github.com/mventurelli/relichunterszero) | [Website](https://relichunters.com.br/) | [Forums](https://www.relichunters.com.br/forums/)
 
 Relic Hunters Zero is a game about shooting evil space ducks and evil space turtles with tiny cute guns. It’s fast, it’s tactical, and feels delicious and smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander. 
 
 * ## Ryzom
-[Game on Steam](https://store.steampowered.com/app/373720/Ryzom/) | [Source code](https://bitbucket.org/account/user/ryzom/projects/PROJ) | [Website](https://ryzom.com/) | [News](https://app.ryzom.com/app_forum/index.php?page=forum/view/1839) | [Forums](https://app.ryzom.com/app_forum/)
+[Game on Steam](https://store.steampowered.com/app/373720/Ryzom/) | [Source Code](https://bitbucket.org/account/user/ryzom/projects/PROJ) | [Website](https://ryzom.com/) | [News](https://app.ryzom.com/app_forum/index.php?page=forum/view/1839) | [Forums](https://app.ryzom.com/app_forum/)
 
 Enter a unique science fantasy MMORPG and dive into a unique organic living world !
 
 * ## Screeps
-[Game on Steam](https://store.steampowered.com/app/464350/Screeps/) | [Source code](https://github.com/screeps/screeps) | [Website](https://screeps.com/) | [News](https://screeps.com/forum/category/5/news-announcements) | [Forums](https://screeps.com/forum/)
+[Game on Steam](https://store.steampowered.com/app/464350/Screeps/) | [Source Code](https://github.com/screeps/screeps) | [Website](https://screeps.com/) | [News](https://screeps.com/forum/category/5/news-announcements) | [Forums](https://screeps.com/forum/)
 
 Screeps is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.
 
@@ -140,7 +145,7 @@ Session Seven is a free point & click adventure game in which you play as Ryan, 
 shapez.io is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.
 
 * ## Simutrans
-[Game on Steam](https://store.steampowered.com/app/434520/Simutrans/) | [Tutorials & Help](https://www.simutrans.com/help/) | [Source code](https://github.com/aburch/simutrans) | [Website](https://www.simutrans.com/) | [News](https://forum.simutrans.com/index.php/board,2.0.html?PHPSESSID=256b73a4943aec9b8280bd57a261aa13) | [Forums](https://forum.simutrans.com/)
+[Game on Steam](https://store.steampowered.com/app/434520/Simutrans/) | [Source Code](https://github.com/aburch/simutrans) | [Tutorials & Help](https://www.simutrans.com/help/) | [Website](https://www.simutrans.com/) | [News](https://forum.simutrans.com/index.php/board,2.0.html?PHPSESSID=256b73a4943aec9b8280bd57a261aa13) | [Forums](https://forum.simutrans.com/)
 
 Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions
 
@@ -150,12 +155,12 @@ Simutrans is a freeware and open-source transportation simulator. Your goal is t
 Play the classic that transcends generations.
 
 * ## Tales of Maj'Eyal
-[Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Source code](https://te4.org/download) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
+[Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Source Code](https://te4.org/download) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
 
 Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of...
 
 * ## Teeworlds
-[Game on Steam](http://store.steampowered.com/app/380840/Teeworlds/) | [Source code](https://github.com/teeworlds) | [Website](https://www.teeworlds.com/) | [News](https://www.teeworlds.com/forum/viewforum.php?id=7) | [Forums](https://www.teeworlds.com/forum/)
+[Game on Steam](http://store.steampowered.com/app/380840/Teeworlds/) | [Source Code](https://github.com/teeworlds) | [Website](https://www.teeworlds.com/) | [News](https://www.teeworlds.com/forum/viewforum.php?id=7) | [Forums](https://www.teeworlds.com/forum/)
 
 Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!
 
@@ -165,17 +170,17 @@ Teeworlds is a free online multiplayer game, available for all major operating s
 Termite is a psychedelic real-time action strategy experience. You are the leader of a termite hive with three objectives: collect food, produce ants and destroy alien colonies.
 
 * ## The Castle Doctrine
-[Game on Steam](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Tutorials & Help](https://thecastledoctrine.fandom.com/wiki/The_Castle_Doctrine_Wiki) | [Source code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Website](http://thecastledoctrine.net/) | [News](http://thecastledoctrine.net/news.php) | [Forums](http://thecastledoctrine.net/forums/) | [Donate](http://thecastledoctrine.net/buy.php)
+[Game on Steam](http://store.steampowered.com/app/249570/The_Castle_Doctrine/) | [Source Code](https://sourceforge.net/p/hcsoftware/CastleDoctrine/ci/default/tree/?SetFreedomCookie) | [Tutorials & Help](https://thecastledoctrine.fandom.com/wiki/The_Castle_Doctrine_Wiki) | [Website](http://thecastledoctrine.net/) | [News](http://thecastledoctrine.net/news.php) | [Forums](http://thecastledoctrine.net/forums/) | [Donate](http://thecastledoctrine.net/buy.php)
 
 The Castle Doctrine is a massively-multiplayer game of burglary and home defense. It's 1991, and things are bad. You're a guy with a house and family. Other players are coming to take what's yours. Build security to stop them. Study their houses, buy tools, and break in to take what's theirs.
 
 * ## The Castles of Dr. Creep
-[Game on Steam](https://store.steampowered.com/app/517930/The_Castles_of_Dr_Creep/) | [Tutorials & Help](http://creep.sourceforge.net/howtoplay.shtml) | [Source code](https://github.com/segrax/DrCreep) | [Website](http://creep.sourceforge.net/) | [Forums](https://sourceforge.net/p/creep/discussion/)
+[Game on Steam](https://store.steampowered.com/app/517930/The_Castles_of_Dr_Creep/) | [Source Code](https://github.com/segrax/DrCreep) | [Tutorials & Help](http://creep.sourceforge.net/howtoplay.shtml) | [Website](http://creep.sourceforge.net/) | [Forums](https://sourceforge.net/p/creep/discussion/)
 
 Explore thirteen different castles, overcoming a variety of puzzles and traps while you attempt to escape.
 
 * ## The Secret of Tremendous Corporation
-[Game on Steam](https://store.steampowered.com/app/380140/The_Secret_of_Tremendous_Corporation/) | [Source code](https://github.com/dos1/AdventureTheGame) | [Website](https://tremendouscorp.com/)
+[Game on Steam](https://store.steampowered.com/app/380140/The_Secret_of_Tremendous_Corporation/) | [Source Code](https://github.com/dos1/AdventureTheGame) | [Website](https://tremendouscorp.com/)
 
 Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what happened to indie devs and save the gaming industry!
 
@@ -185,17 +190,17 @@ Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what ha
 Tomatenquark is a multiplayer & singleplayer first person shooter, a community homage to Cube 2: Sauerbraten.
 
 * ## Trigger Time
-[Game on Steam](https://store.steampowered.com/app/512920/Trigger_Time/) | [Source code](https://github.com/Sheph/TriggerTime)
+[Game on Steam](https://store.steampowered.com/app/512920/Trigger_Time/) | [Source Code](https://github.com/Sheph/TriggerTime)
 
 Trigger Time is a story-driven, top-down Shoot 'em up with a fun gravity gun and physics puzzles to solve. Blast your way through 9 levels filled with enemies, hazards and bizarre bosses. Along the way you'll take control of vehicles, pick up weapons, items and boosters.
 
 * ## Uebergame
-[Game on Steam](https://store.steampowered.com/app/391780/Uebergame/) | [Source code](https://github.com/Duion/Uebergame) | [Website](https://duion.com/games/uebergame/main)
+[Game on Steam](https://store.steampowered.com/app/391780/Uebergame/) | [Source Code](https://github.com/Duion/Uebergame) | [Website](https://duion.com/games/uebergame/main)
 
 A truly free and open source multiplayer shooter, no strings attached. Have casual deathmatch matches on various scenarios. Build your own levels with the ingame editor and assets that come with the game, or just play around and use it as a sandbox.
 
 * ## Vulture for NetHack
-[Game on Steam](https://store.steampowered.com/app/341390/Vulture_for_NetHack/) | [Source code](http://www.darkarts.co.za/vulture-for-nethack) | [Website](http://www.darkarts.co.za/vulture-for-nethack)
+[Game on Steam](https://store.steampowered.com/app/341390/Vulture_for_NetHack/) | [Source Code](http://www.darkarts.co.za/vulture-for-nethack) | [Website](http://www.darkarts.co.za/vulture-for-nethack)
 
 Vulture for NetHack is an isometric graphical interface for the roguelike engine: NetHack, the most celebrated member of the ancient and honorable family of games descended from Rogue and hence known as “roguelike”: bare-bones ASCII-graphics adventures set in randomly generated dungeons, in which the player fights monsters and collects items until he or she dies.
 
@@ -205,17 +210,17 @@ Vulture for NetHack is an isometric graphical interface for the roguelike engine
 Warfork is a demanding fast paced first person shooter with a focus on speed, aim, movement, and above all competitive play.
 
 * ## Warzone 2100
-[Game on Steam](https://store.steampowered.com/app/1241950/Warzone_2100/) | [Tutorials & Help](https://betaguide.wz2100.net/) | [Source Code](https://github.com/Warzone2100/warzone2100) | [Website](https://wz2100.net) | [Forums](https://forums.wz2100.net/) | [Donate](https://donations.wz2100.net/)
+[Game on Steam](https://store.steampowered.com/app/1241950/Warzone_2100/) | [Source Code](https://github.com/Warzone2100/warzone2100) | [Tutorials & Help](https://betaguide.wz2100.net/) | [Website](https://wz2100.net) | [Forums](https://forums.wz2100.net/) | [Donate](https://donations.wz2100.net/)
 
 In the late 21st century, the world's civilizations are wiped out by a series of nuclear strikes, seemingly caused by a massive malfunction of the new NASDA (North American Strategic Defense Agency) strategic defense system. Warzone 2100, released in 1999 and developed by Pumpkin Studios, was a ground-breaking and innovative 3D real-time strategy game.
 
 * ## Wyrmsun
-[Game on Steam](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source code](https://github.com/andrettin/wyrmsun) | [Website](https://andrettin.github.io/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=93)
+[Game on Steam](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source Code](https://github.com/andrettin/wyrmsun) | [Website](https://andrettin.github.io/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=93)
 
 Wyrmsun is a real-time strategy game which features elements of mythology, history and fiction with retro-style graphics, 3 playable civilizations, story-based scenarios, playable on a huge map. There are dozens of units, buildings and technologies
 
 * ## Zero-K
-[Game on Steam](https://store.steampowered.com/app/334920/ZeroK/) | [Source code](https://github.com/ZeroK-RTS) | [Website](https://zero-k.info/) | [Forums](https://zero-k.info/Forum) | [Donate](https://zero-k.info/Contributions)
+[Game on Steam](https://store.steampowered.com/app/334920/ZeroK/) | [Source Code](https://github.com/ZeroK-RTS) | [Website](https://zero-k.info/) | [Forums](https://zero-k.info/Forum) | [Donate](https://zero-k.info/Contributions)
 
 Zero-K is an expansive Real Time Strategy game. Fight epic battles over land, air and sea on 100s of maps. Manipulate the terrain and throw units around. Explore an abandoned galaxy, solo or co-op, in 70 campaign missions. Hop online for a tense 1v1 or massive battles with up to 32 players. 
 
