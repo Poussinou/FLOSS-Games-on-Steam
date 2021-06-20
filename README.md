@@ -74,6 +74,11 @@ Koi Farm is a game about playing with koi ponds. Explore an infinite number of p
 
 Marvellous Inc. is a programming puzzle game, where you program robots to solve tasks.
 
+* ## McOsu
+[Game on Steam](https://store.steampowered.com/app/607260/McOsu/) | [Source Code](https://github.com/McKay42/McOsu)
+
+A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support. McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.
+
 * ## MegaGlest
 [Game on Steam](https://store.steampowered.com/app/578870/MegaGlest/) | [Tutorials & Help](https://docs.megaglest.org/Main_Page) | [Source code](https://github.com/MegaGlest) | [Website](https://megaglest.org/) | [News](https://megaglest.org/news) | [Forums](https://forum.megaglest.org/) | [Donate](https://megaglest.org/donations)
 
