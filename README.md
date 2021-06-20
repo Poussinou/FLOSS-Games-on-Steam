@@ -29,6 +29,11 @@ BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Us
 
 Cendric combines 2D RPG and Platformer elements in one indie game, featuring both a sidescroller and top-down view. The player explore a world by completing levels and quests, following the story of a boy with no memory and discovering the magical but dangerous world of Admantris. 
 
+* ## Cortex
+[Game on Steam](https://store.steampowered.com/app/998820/Cortex/) | [Source Code](https://github.com/milgra/cortex)
+
+The Psychedelic Tunnel-Runner.
+
 * ## Crystal Picnic
 [Game on Steam](https://store.steampowered.com/app/415890/Crystal_Picnic/) | [Tutorials & Help](https://github.com/Cloudxtreme/crystal-picnic) | [(incomplete) Source code](https://github.com/Cloudxtreme/crystal-picnic) | [Website](https://nooskewl.ca/crystal-picnic/)
 
