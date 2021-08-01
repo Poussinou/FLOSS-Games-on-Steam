@@ -19,6 +19,11 @@ Amnesia: The Dark Descent, a first person survival horror. A game about immersio
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
+* ## Burning Knight
+[Game on Steam](https://store.steampowered.com/app/851150/Burning_Knight/) | [Source Code](https://github.com/egordorichev/BurningKnight) | [Donate](https://paypal.me/egordorichev)
+
+Steal everything you can and flee from the Burning Knight's castle in this action-packed roguelike! The game features tight bullet hell, tons of items, characters to meet... and secrets!
+
 * ## BYTEPATH
 [Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH) |
 
@@ -28,6 +33,11 @@ BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Us
 [Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Source Code](https://github.com/tizian/Cendric2) | [Tutorials & Help](https://help.fandom.com/wiki/Contents) | [Website](http://cendric.ch/)
 
 Cendric combines 2D RPG and Platformer elements in one indie game, featuring both a sidescroller and top-down view. The player explore a world by completing levels and quests, following the story of a boy with no memory and discovering the magical but dangerous world of Admantris. 
+
+* ## Charge Kid
+[Game on Steam](https://store.steampowered.com/app/1334300/Charge_Kid/) | [Source Code](https://gitlab.com/uspgamedev/charge_kid)
+
+A challenging puzzle-platformer where each jump is a puzzle.
 
 * ## Cortex
 [Game on Steam](https://store.steampowered.com/app/998820/Cortex/) | [Source Code](https://github.com/milgra/cortex)
@@ -58,6 +68,11 @@ Build a colony of ruthless capitalist Dwarves in a strange fantasy land.
 [Game on Steam](http://store.steampowered.com/app/404410/Endless_Sky/) | [Tutorials & Help](https://github.com/endless-sky/endless-sky/wiki/PlayersManual) | [Source code](https://github.com/endless-sky) | [Website](http://endless-sky.github.io/) | [News](http://endless-sky.github.io/blog.html)
 
 Endless Sky is a 2D space trading and combat game inspired by the classic Escape Velocity series. Work your way up from a relatively wimpy shuttle, cargo ship, or fighter, to a highly upgraded and customized flagship or to a massive fleet of warships or freighters. 
+
+* ## Epicinium
+[Game on Steam](https://store.steampowered.com/app/1286730/Epicinium/) | [Source Code](https://github.com/abunchofhacks/Epicinium) | [Website](https://epicinium.nl/) | [Donate](https://abunchofhacks.itch.io/epicinium/purchase)
+
+Epicinium is a strategy game where nature is a finite resource. No need to wait for your move, thanks to fast, simultaneous turns. Your economy and troops are influenced by the environment and increasingly severe weather effects. Is it worth winning a war when you end up conquering dirt and ash?
 
 * ## HookSharks
 [Game on Steam](https://store.steampowered.com/app/1266390/HookSharks/) | [Source Code](https://github.com/DoubleTroubleGames/hooksharks)
@@ -108,6 +123,11 @@ An open-ended tower-defense game with a focus on resource management.
 [Game on Steam](https://store.steampowered.com/app/409370/Monster_RPG_2/) | [(incomplete) Source code](https://github.com/kraekin/monster-rpg-2) | [Website](https://nooskewl.ca/monster-rpg-2/)
 
 Monster RPG 2 is a fantasy quest that spans continents and worlds and lets you take a simple villager and develop her into a hero with the power to save her world. 
+
+* ## Naev
+[Game on Steam](https://store.steampowered.com/app/598530/Naev/) | [Source Code](https://github.com/naev/naev) | [Website](https://naev.org/)
+
+Naev is a game about space exploration, trade and combat. Players travel the galaxy and earn money by trading, fighting and performing missions.
 
 * ## One Hour One Life
 [Game on Steam](https://store.steampowered.com/app/595690/One_Hour_One_Life/) | [Source code](https://github.com/jasonrohrer/OneLife) | [Website](https://onehouronelife.com/) | [News](http://onehouronelife.com/newsPage.php) | [Forums](https://onehouronelife.com/forums/)
