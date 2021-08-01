@@ -54,6 +54,11 @@ Crystal Picnic is a lighthearted and colorful tribute to the classic era of acti
 
 DDraceNetwork is a cooperative racing mod of Teeworlds. What started as a simple mod is now a big cooperative platformer experience! Choose from hundreds of available maps, race your way to the finish line and help your friends. Collaborate and compete with players all over the world.
 
+* ## Death and Taxes
+[Game on Steam](https://store.steampowered.com/app/1166290/Death_and_Taxes/) | [Source Code](https://github.com/oakwarrior/DeathAndTaxes)
+
+In this 2D, short narrative-based game, you assume the role of the Grim Reaper... on an office job. Your job is to decide which people are going to live or die. The consequences of your choices are yours to bear, while the mystery of your incarnation awaits revelation!
+
 * ## Destination Sol
 [Game on Steam](https://store.steampowered.com/app/342980/Destination_Sol/) | [Source Code](https://github.com/MovingBlocks/DestinationSol) | [Website](https://destinationsol.org/)
 
@@ -73,6 +78,11 @@ Endless Sky is a 2D space trading and combat game inspired by the classic Escape
 [Game on Steam](https://store.steampowered.com/app/1286730/Epicinium/) | [Source Code](https://github.com/abunchofhacks/Epicinium) | [Website](https://epicinium.nl/) | [Donate](https://abunchofhacks.itch.io/epicinium/purchase)
 
 Epicinium is a strategy game where nature is a finite resource. No need to wait for your move, thanks to fast, simultaneous turns. Your economy and troops are influenced by the environment and increasingly severe weather effects. Is it worth winning a war when you end up conquering dirt and ash?
+
+<!--* ## Good Robot
+[Game on Steam](https://store.steampowered.com/app/358830/Good_Robot/) | [Source Code](https://github.com/arvindrajayadav/Good-Robot) | Website](https://pyrodactyl.com/good-robot/)
+
+Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands of robots out to violate your warranty. Explore a procedurally generated sci-fi metropolis and the depths of corporate depravity, but never stop shooting...unless, of course, you're a Bad Robot. You're not, are you?-->
 
 * ## HookSharks
 [Game on Steam](https://store.steampowered.com/app/1266390/HookSharks/) | [Source Code](https://github.com/DoubleTroubleGames/hooksharks)
@@ -98,6 +108,16 @@ Ambitious dungeon simulator with roguelike and RPG elements. Take the role of an
 [Game on Steam](https://store.steampowered.com/app/1518810/Koi_Farm/) | [Source Code](https://github.com/jobtalle/Koi)
 
 Koi Farm is a game about playing with koi ponds. Explore an infinite number of procedurally generated koi patterns by crossbreeding your fish, and discover new mutations as you go along.
+
+* ## Lazy Chess
+[Game on Steam](https://store.steampowered.com/app/1558020/Lazy_Chess/) | [Source Code](https://github.com/cinqmarsmedia/Lazy-Chess-An-Indie-Chess-Puzzle-Game) | [Website](https://www.cinqmarsmedia.com/lazychess/)
+
+Lazy Chess is a new non-profit chess game that narrows your choices down to the best 2 possible moves per turn. The moves provided can always win the game, but how strong are your decisions? Fewer moves. More fun.
+
+<!--* ## Lugaru
+[Game on Steam](https://store.steampowered.com/app/25010/Lugaru_HD/) | [Source Code](https://gitlab.com/osslugaru/lugaru) | [Website](https://osslugaru.gitlab.io/)
+
+Follow Turner, a rebel bunny rabbit with impressive combat skills in his quest to find those responsible for slaughtering his village. Uncover a far-reaching conspiracy involving the corrupt leaders of the rabbit republic and the wolves of the nearby lands. Streamlined Combat: Gone are the days of combo memorization and button mashing.-->
 
 * ## Marvellous Inc.
 [Game on Steam](https://store.steampowered.com/app/827940/Marvellous_Inc/) | [Source Code](https://github.com/MarvellousSoft/MarvInc) | [Website](https://marvellous.itch.io/marvellous-inc)
@@ -149,6 +169,11 @@ OpenTTD is a business simulation game in which players earn money by transportin
 
 Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
 
+* ## Quaver
+[Game on Steam](https://store.steampowered.com/app/980610/Quaver/) | [Source Code](https://github.com/Quaver/Quaver) | [Website](https://quavergame.com/) | [Donate](https://quavergame.com/donate)
+
+Quaver is a community-driven and open-source competitive rhythm game with two game modes and online leaderboards. Create your own maps or challenge the world in online multiplayer matches.
+
 * ## Red Eclipse 2
 [Game on Steam](https://store.steampowered.com/app/967460/Red_Eclipse_2/) | [Source Code](https://github.com/redeclipse) | [Website](https://www.redeclipse.net/) | [Forums](https://github.com/redeclipse/base/discussions) | [Donate](https://www.redeclipse.net/donate)
 
@@ -169,6 +194,11 @@ Enter a unique science fantasy MMORPG and dive into a unique organic living worl
 
 Screeps is an open source MMO RTS sandbox game for programming enthusiasts, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operates 24/7 in the single persistent open world filled by other players on par with you.
 
+* ## Selfless Heroes
+[Game on Steam](https://store.steampowered.com/app/1273450/Selfless_Heroes/) | [Source Code](https://github.com/felicien-brochu/selflessheroes) | [Website](https://selflessheroes.fr/)
+
+Solve puzzles by designing an AI for a team of selfless heroes. Test your algorithm, optimize it, and emerge victorious from the dungeon!
+
 * ## Session Seven
 [Game on Steam](https://store.steampowered.com/app/915720/Session_Seven/) | [Source Code](https://github.com/advdotnet/Session-Seven) | [Website](https://www.sessionseven.com)
 
@@ -188,6 +218,16 @@ Simutrans is a freeware and open-source transportation simulator. Your goal is t
 [Game on Steam](https://store.steampowered.com/app/1332800/Snake/) | [Source Code](https://github.com/Romans-I-XVI/MonoGame-Snake) | [Website](https://romansixvigaming.com/title/snake/)
 
 Play the classic that transcends generations.
+
+* ##SNKRX
+[Game on Steam](https://store.steampowered.com/app/915310/SNKRX/) | [Source Code](https://github.com/a327ex/SNKRX)
+
+SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.
+
+* ##Soldat
+[Game on Steam](https://store.steampowered.com/app/638490/Soldat/) | [Source Code](https://github.com/Soldat/soldat) | [Website](https://soldat.pl/en/)
+
+Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh.
 
 * ## Tales of Maj'Eyal
 [Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Source Code](https://te4.org/download) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
