@@ -89,6 +89,11 @@ A free open-source circle-clicking rhythm game practice client for osu! beatmaps
 
 MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, where you control the armies of one of seven different factions: Tech, Magic, Egypt, Indians, Norsemen, Persian or Romans. The game is setup in one of 17 naturally looking settings, which -like the unit models- are crafted with great appreciation for detail.
 
+* ## Mindustry
+[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/) | [Source code](https://github.com/Anuken/Mindustry) | [Website](https://mindustrygame.github.io/)
+
+An open-ended tower-defense game with a focus on resource management.
+
 * ## Monster RPG 2
 [Game on Steam](https://store.steampowered.com/app/409370/Monster_RPG_2/) | [(incomplete) Source code](https://github.com/kraekin/monster-rpg-2) | [Website](https://nooskewl.ca/monster-rpg-2/)
 
