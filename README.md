@@ -64,6 +64,16 @@ Endless Sky is a 2D space trading and combat game inspired by the classic Escape
 
 Hooksharks is a local multiplayer game about glory, and most of all, battling sharks with giant hooks attached to them.
 
+* ## HyperRogue
+[Game on Steam](https://store.steampowered.com/app/342610/HyperRogue/) | [Source Code](https://github.com/zenorogue/hyperrogue) | [Website](https://www.roguetemple.com/z/hyper/) | [Donate](http://www.roguetemple.com/z/donate.php?id=hyper)
+
+A tactical puzzle/roguelike on a hyperbolic plane.
+
+* ## Ingnomia
+[Game on Steam](https://store.steampowered.com/app/709240/Ingnomia/) | [Source Code](https://github.com/rschurade/Ingnomia)
+
+Following in the footsteps of Dwarf Fortress and Gnomoria, this game aims to provide the best experience of both worlds. The graphics and accessibility of Gnomoria and the depth and rich content of Dwarf Fortress.
+
 * ## KeeperRL
 [Game on Steam](https://store.steampowered.com/app/329970) | [Tutorials & Help](https://miki151.github.io/keeperrl_wiki/Gameplay_Guide/) | [Source code](https://github.com/miki151/keeperrl) | [Website](http://keeperrl.com/) | [News](https://keeperrl.com/category/News)
 
