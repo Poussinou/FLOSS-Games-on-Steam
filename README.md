@@ -219,12 +219,12 @@ Simutrans is a freeware and open-source transportation simulator. Your goal is t
 
 Play the classic that transcends generations.
 
-* ##SNKRX
+* ## SNKRX
 [Game on Steam](https://store.steampowered.com/app/915310/SNKRX/) | [Source Code](https://github.com/a327ex/SNKRX)
 
 SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.
 
-* ##Soldat
+* ## Soldat
 [Game on Steam](https://store.steampowered.com/app/638490/Soldat/) | [Source Code](https://github.com/Soldat/soldat) | [Website](https://soldat.pl/en/)
 
 Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh.
