@@ -159,6 +159,9 @@ A multiplayer survival game of parenting and civilization building. Get born to 
 
 Manga are comics created in Japan. The problem for most people is, as they're made in Japan they're only produced in Japanese; someone has to translate them to English! Is one man able to accomplish this? Is there more to his team's relationships other than business? Can everything in a translator's life be simple and clear?
 
+* ## Open Hexagon
+[Game on Steam](https://store.steampowered.com/app/1358090/) | [Source Code](https://github.com/SuperV1234/SSVOpenHexagon) | [Website](https://vittorioromeo.info/projects.html)
+
 * ## OpenTTD
 [Game on Steam](https://store.steampowered.com/app/1536610/OpenTTD/) | [Source Code](https://github.com/OpenTTD) | [Tutorials & Help](https://wiki.openttd.org/en/) | [Website](https://www.openttd.org/) | [Forums](https://www.tt-forums.net/viewforum.php?f=55) | [Donate](https://www.openttd.org/donate.html)
 
