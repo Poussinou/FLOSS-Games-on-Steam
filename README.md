@@ -120,12 +120,12 @@ Lazy Chess is a new non-profit chess game that narrows your choices down to the 
 Follow Turner, a rebel bunny rabbit with impressive combat skills in his quest to find those responsible for slaughtering his village. Uncover a far-reaching conspiracy involving the corrupt leaders of the rabbit republic and the wolves of the nearby lands. Streamlined Combat: Gone are the days of combo memorization and button mashing.-->
 
 * ## Little Big Adventure
-[Game on Steam](https://store.steampowered.com/app/397330/Little_Big_Adventure__Enhanced_Edition/) | [Source Code](https://github.com/2point21/lba1-classic) | [Licence (GPLv2)](https://github.com/2point21/lba1-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
+[Game on Steam](https://store.steampowered.com/app/397330/Little_Big_Adventure__Enhanced_Edition/) | [Source Code (classic)](https://github.com/2point21/lba1-classic) | [Source Code (community)](https://github.com/2point21/lba1-classic-community) | [Licence (GPLv2)](https://github.com/2point21/lba1-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
 
- Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal. The source code for both orginal games was released in 2021.
+Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal. The source code for both orginal games was released in 2021, however the assets are not free. Each game has two code repositories, one for the orginal developers and one dedicated to the community for pull requests.
 
 * ## Little Big Adventure 2
-[Game on Steam](https://store.steampowered.com/app/398000/Little_Big_Adventure_2/) | [Source Code](https://github.com/2point21/lba2-classic) | [Licence (GPLv2)](https://github.com/2point21/lba2-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
+[Game on Steam](https://store.steampowered.com/app/398000/Little_Big_Adventure_2/) | [Source Code](https://github.com/2point21/lba2-classic) | [Source Code (community)](https://github.com/2point21/lba2-classic-community) |  | [Licence (GPLv2)](https://github.com/2point21/lba2-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
 
 The sequel of Little Big Adventure. After saving the world from the evilish Doctor Funfrock, Twinsen is now ready to face a new threat coming from outer space. 
 
