@@ -125,7 +125,7 @@ Follow Turner, a rebel bunny rabbit with impressive combat skills in his quest t
 Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal. The source code for both orginal games was released in 2021, however the assets are not free. Each game has two code repositories, one for the orginal developers and one dedicated to the community for pull requests.
 
 * ## Little Big Adventure 2
-[Game on Steam](https://store.steampowered.com/app/398000/Little_Big_Adventure_2/) | [Source Code](https://github.com/2point21/lba2-classic) | [Source Code (community)](https://github.com/2point21/lba2-classic-community) |  | [Licence (GPLv2)](https://github.com/2point21/lba2-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
+[Game on Steam](https://store.steampowered.com/app/398000/Little_Big_Adventure_2/) | [Source Code (classic)](https://github.com/2point21/lba2-classic) | [Source Code (community)](https://github.com/2point21/lba2-classic-community) | [Licence (GPLv2)](https://github.com/2point21/lba2-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
 
 The sequel of Little Big Adventure. After saving the world from the evilish Doctor Funfrock, Twinsen is now ready to face a new threat coming from outer space. 
 
