@@ -100,7 +100,7 @@ A tactical puzzle/roguelike on a hyperbolic plane.
 Following in the footsteps of Dwarf Fortress and Gnomoria, this game aims to provide the best experience of both worlds. The graphics and accessibility of Gnomoria and the depth and rich content of Dwarf Fortress.
 
 * ## Jagged Alliance 2
-[Game on Steam](https://store.steampowered.com/app/1620/Jagged_Alliance_2_Gold/) | [Source Code](https://github.com/dariusk/ja2)
+[Game on Steam](https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/) | [Source Code](https://github.com/dariusk/ja2)
 
 Jagged Alliance 2 is a tactical role-playing game for PC released in 1999. It is the third entry in the series. Due to high demand an updated version of the game with numerous changes and improvements called *Jagged Alliance 2: Wildfire* was released in 2004. The box for this version also contained the games source code with a non-commerical license.
 
