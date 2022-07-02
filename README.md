@@ -2,7 +2,7 @@
 
 Here is a list of free/libre and open source games that are available on [Steam](https://store.steampowered.com/). Enjoy ! Improve the list if you know another one !
 
-Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not libre.
+Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not free/libre.
 
 * ## Amnesia: A Machine for Pigs
 [Game on Steam](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/) | [Source Code](https://github.com/FrictionalGames/AmnesiaAMachineForPigs) | [Website](http://www.aamfp.com/info)
@@ -244,18 +244,23 @@ SNKRX is an arcade shooter roguelite where you control a snake of heroes that au
 
 Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh.
 
+* ## SuperTux
+[Game on Steam](https://store.steampowered.com/app/1572920/SuperTux/) | [Source Code](https://github.com/SuperTux/supertux) | [License GPLv3](https://github.com/SuperTux/supertux/blob/master/LICENSE.txt) | [Website](https://www.supertux.org/) | [News](https://www.supertux.org/news/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=66) | [Donate](https://www.supertux.org/donate.html)
+
+Classic 2D jump'n'run sidescroller featuring Tux the penguin. Run and jump through multiple worlds, fighting off enemies by jumping on them, bumping them from below or tossing objects at them, grabbing power-ups and other stuff on the way. 
+
 * ## Tales of Maj'Eyal
-[Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Source Code](https://te4.org/download) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
+[Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Source Code](https://te4.org/download) | [License GPLv3](https://te4.org/license) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
 
 Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of...
 
 * ## Teeworlds
-[Game on Steam](http://store.steampowered.com/app/380840/Teeworlds/) | [Source Code](https://github.com/teeworlds) | [Website](https://www.teeworlds.com/) | [News](https://www.teeworlds.com/forum/viewforum.php?id=7) | [Forums](https://www.teeworlds.com/forum/)
+[Game on Steam](http://store.steampowered.com/app/380840/Teeworlds/) | [Source Code](https://github.com/teeworlds) | [License CC-BY-SA 3.0](https://github.com/teeworlds/teeworlds/blob/master/license.txt) | [Website](https://www.teeworlds.com/) | [News](https://www.teeworlds.com/forum/viewforum.php?id=7) | [Forums](https://www.teeworlds.com/forum/)
 
 Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!
 
 * ## Termite
-[Game on Steam](https://store.steampowered.com/app/972560/Termite/) | [Source Code](https://github.com/milgra/termite)
+[Game on Steam](https://store.steampowered.com/app/972560/Termite/) | [Source Code](https://github.com/milgra/termite) | [License GPLv3](https://github.com/milgra/termite/blob/master/LICENSE) | [Donate](https://www.paypal.com/paypalme/milgra)
 
 Termite is a psychedelic real-time action strategy experience. You are the leader of a termite hive with three objectives: collect food, produce ants and destroy alien colonies.
 
@@ -321,12 +326,10 @@ Steam is also serving softwraes, and some of them are FLOSS, you can find them b
 Krita is a powerful digital painting application, made for illustrators, game artists, concept artists, animators, comic book artists and everyone who wants to draw and paint. -->
 
 ### To-Do
-* Add screenshots (help needed)
 * Addons supported/extendable ?
 * Platforms supported ?
 * Cost ?
 * Add license (and specificaitons for assets, most of the time they aren't floss) ?
 * Link to Direct Download ?
-* Host the last executable file or the source code in this repo if not available on Github ?
 
-I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/), but I found some others somewhere on the internet, I can't remember where...
+I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/), but I found some others somewhere on the internet, I can't remember where... Thanks to contributors that added Games via Issues or Pull Requests.
