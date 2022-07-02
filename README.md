@@ -1,8 +1,8 @@
-# Free and Open-source Games - Steam
+# Free/Libre Open-source Games - Steam
 
 Here is a list of free/libre and open source games that are available on [Steam](https://store.steampowered.com/). Enjoy ! Improve the list if you know another one !
 
-Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play sometimes aren't open source.
+Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not libre.
 
 * ## Amnesia: A Machine for Pigs
 [Game on Steam](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/) | [Source Code](https://github.com/FrictionalGames/AmnesiaAMachineForPigs) | [Website](http://www.aamfp.com/info)
@@ -114,6 +114,16 @@ Koi Farm is a game about playing with koi ponds. Explore an infinite number of p
 
 Lazy Chess is a new non-profit chess game that narrows your choices down to the best 2 possible moves per turn. The moves provided can always win the game, but how strong are your decisions? Fewer moves. More fun.
 
+* ## Little Big Adventure
+[Game on Steam](https://store.steampowered.com/app/397330/Little_Big_Adventure__Enhanced_Edition/) | [Source Code (classic)](https://github.com/2point21/lba1-classic) | [Source Code (community)](https://github.com/2point21/lba1-classic-community) | [Licence GPLv2](https://github.com/2point21/lba1-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
+
+Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal. The source code for both orginal games was released in 2021 under floss license, however **the assets are not floss**.
+
+* ## Little Big Adventure 2
+[Game on Steam](https://store.steampowered.com/app/398000/Little_Big_Adventure_2/) | [Source Code (classic)](https://github.com/2point21/lba2-classic) | [Source Code (community)](https://github.com/2point21/lba2-classic-community) | [Licence GPLv2](https://github.com/2point21/lba2-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
+
+The sequel of Little Big Adventure. After saving the world from the evilish Doctor Funfrock, Twinsen is now ready to face a new threat coming from outer space. The source code is floss, but **the assets are not floss**.
+
 <!--* ## Lugaru
 [Game on Steam](https://store.steampowered.com/app/25010/Lugaru_HD/) | [Source Code](https://gitlab.com/osslugaru/lugaru) | [Website](https://osslugaru.gitlab.io/)
 
@@ -158,6 +168,11 @@ A multiplayer survival game of parenting and civilization building. Get born to 
 [Game on Steam](https://store.steampowered.com/app/365070/One_Manga_Day/) | [Source Code](https://github.com/DeXP/onemangaday) | [Website](https://onemangaday.dexp.in/) | [Donate](https://onemangaday.dexp.in/donate.html)
 
 Manga are comics created in Japan. The problem for most people is, as they're made in Japan they're only produced in Japanese; someone has to translate them to English! Is one man able to accomplish this? Is there more to his team's relationships other than business? Can everything in a translator's life be simple and clear?
+
+* ## Open Hexagon
+[Game on Steam](https://store.steampowered.com/app/1358090/) | [Source Code](https://github.com/SuperV1234/SSVOpenHexagon) | [License AFL](https://github.com/vittorioromeo/SSVOpenHexagon/blob/master/LICENSE) | [Website](https://vittorioromeo.info/projects.html)
+
+Open Hexagon is a FOSS clone of Super Hexagon, a minimal action game. A fast-paced adrenalinic arcade game that's easy to learn but hard to master!
 
 * ## OpenTTD
 [Game on Steam](https://store.steampowered.com/app/1536610/OpenTTD/) | [Source Code](https://github.com/OpenTTD) | [Tutorials & Help](https://wiki.openttd.org/en/) | [Website](https://www.openttd.org/) | [Forums](https://www.tt-forums.net/viewforum.php?f=55) | [Donate](https://www.openttd.org/donate.html)
