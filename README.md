@@ -19,6 +19,11 @@ Amnesia: The Dark Descent, a first person survival horror. A game about immersio
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
+* ## Break Arcade Games Out
+[Game on Steam](https://store.steampowered.com/app/1145020/Break_Arcade_Games_Out/) | [Source Code](https://github.com/DanZaidan/break_arcade_games_out) | [License Public Domain](https://github.com/DanZaidan/break_arcade_games_out/blob/master/LICENSE) | [Website](https://break-arcade-games-out.handmade.network/) | [Donate](https://danzaidan.itch.io/break-arcade-games-out)
+
+What if Breakout was the only arcade game people could make? An open-source game, written entirely on a live stream. 
+
 * ## Burning Knight
 [Game on Steam](https://store.steampowered.com/app/851150/Burning_Knight/) | [Source Code](https://github.com/egordorichev/BurningKnight) | [Donate](https://paypal.me/egordorichev)
 
