@@ -239,6 +239,11 @@ Play the classic that transcends generations.
 
 SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.
 
+* ## Solaris
+[Game on Steam](https://store.steampowered.com/app/1623930/Solaris/) | [Source Code](https://github.com/solaris-games/solaris) | [License GPLv3](https://github.com/solaris-games/solaris/blob/master/LICENSE) | [Tutorials & Help](https://solaris4x.readthedocs.io/en/latest/) | [Website](https://solaris.games/#/) | [Donate](https://www.buymeacoffee.com/hyperi0n)
+
+Discover a space strategy game filled with conquest, betrayal and subterfuge. Build alliances, make enemies and fight your way to victory and galactic domination. Will you conquer the galaxy? 
+
 * ## Soldat
 [Game on Steam](https://store.steampowered.com/app/638490/Soldat/) | [Source Code](https://github.com/Soldat/soldat) | [Website](https://soldat.pl/en/)
 
