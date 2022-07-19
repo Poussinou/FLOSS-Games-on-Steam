@@ -19,6 +19,11 @@ Amnesia: The Dark Descent, a first person survival horror. A game about immersio
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
+* ## Bitburner
+[Game on Steam](https://store.steampowered.com/app/1812820/Bitburner/) | [Source Code](https://github.com/danielyxie/bitburner) | [License Apache 2.0](https://github.com/danielyxie/bitburner/blob/dev/license.txt) | [Tutorials & Help](http://bitburner.readthedocs.io/) | [Website](https://danielyxie.github.io/bitburner/) | [Forums](https://discord.gg/TFc3hKD)
+
+Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG. 
+
 * ## Break Arcade Games Out
 [Game on Steam](https://store.steampowered.com/app/1145020/Break_Arcade_Games_Out/) | [Source Code](https://github.com/DanZaidan/break_arcade_games_out) | [License Public Domain](https://github.com/DanZaidan/break_arcade_games_out/blob/master/LICENSE) | [Website](https://break-arcade-games-out.handmade.network/) | [Donate](https://danzaidan.itch.io/break-arcade-games-out)
 
