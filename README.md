@@ -19,6 +19,16 @@ Amnesia: The Dark Descent, a first person survival horror. A game about immersio
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
+* ## Bitburner
+[Game on Steam](https://store.steampowered.com/app/1812820/Bitburner/) | [Source Code](https://github.com/danielyxie/bitburner) | [License Apache 2.0](https://github.com/danielyxie/bitburner/blob/dev/license.txt) | [Tutorials & Help](http://bitburner.readthedocs.io/) | [Website](https://danielyxie.github.io/bitburner/) | [Forums](https://discord.gg/TFc3hKD)
+
+Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG. 
+
+* ## Break Arcade Games Out
+[Game on Steam](https://store.steampowered.com/app/1145020/Break_Arcade_Games_Out/) | [Source Code](https://github.com/DanZaidan/break_arcade_games_out) | [License Public Domain](https://github.com/DanZaidan/break_arcade_games_out/blob/master/LICENSE) | [Website](https://break-arcade-games-out.handmade.network/) | [Donate](https://danzaidan.itch.io/break-arcade-games-out)
+
+What if Breakout was the only arcade game people could make? An open-source game, written entirely on a live stream. 
+
 * ## Burning Knight
 [Game on Steam](https://store.steampowered.com/app/851150/Burning_Knight/) | [Source Code](https://github.com/egordorichev/BurningKnight) | [Donate](https://paypal.me/egordorichev)
 
@@ -239,10 +249,20 @@ Play the classic that transcends generations.
 
 SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.
 
+* ## Solaris
+[Game on Steam](https://store.steampowered.com/app/1623930/Solaris/) | [Source Code](https://github.com/solaris-games/solaris) | [License GPLv3](https://github.com/solaris-games/solaris/blob/master/LICENSE) | [Tutorials & Help](https://solaris4x.readthedocs.io/en/latest/) | [Website](https://solaris.games/#/) | [Donate](https://www.buymeacoffee.com/hyperi0n)
+
+Discover a space strategy game filled with conquest, betrayal and subterfuge. Build alliances, make enemies and fight your way to victory and galactic domination. Will you conquer the galaxy? 
+
 * ## Soldat
 [Game on Steam](https://store.steampowered.com/app/638490/Soldat/) | [Source Code](https://github.com/Soldat/soldat) | [Website](https://soldat.pl/en/)
 
 Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh.
+
+* ## Space Station 14
+[Game on Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Source Code](https://github.com/space-wizards/space-station-14) | [License MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT) | [Tutorials & Help](https://wiki.spacestation14.io/wiki/Main_Page) | [Website](https://spacestation14.io/) | [News](https://spacestation14.io/post/) | [Forums](https://forum.spacestation14.io/) | [Donate](https://www.patreon.com/spacestation14)
+
+ Disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience. Sign up today to explore intricate game mechanics and enjoy limitless player interaction! (Nanotrasen Inc. is not responsible for injury, death, or worse). 
 
 * ## SuperTux
 [Game on Steam](https://store.steampowered.com/app/1572920/SuperTux/) | [Source Code](https://github.com/SuperTux/supertux) | [License GPLv3](https://github.com/SuperTux/supertux/blob/master/LICENSE.txt) | [Website](https://www.supertux.org/) | [News](https://www.supertux.org/news/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=66) | [Donate](https://www.supertux.org/donate.html)
