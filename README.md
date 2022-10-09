@@ -54,8 +54,10 @@ A challenging puzzle-platformer where each jump is a puzzle.
 
 The Psychedelic Tunnel-Runner.
 
-* ## Crystal Picnic
+* ## ~~Crystal Picnic~~
 [Game on Steam](https://store.steampowered.com/app/415890/Crystal_Picnic/) | [Tutorials & Help](https://github.com/Cloudxtreme/crystal-picnic) | [(incomplete) Source Code](https://github.com/Cloudxtreme/crystal-picnic) | [Website](https://nooskewl.ca/crystal-picnic/)
+
+WARNING: THIS GAME ISN'T AVAILABLE ON STEAM ANYMORE, BUT YOU CAN STILL DOWNLOAD IT FROM THE WEBSITE.
 
 Crystal Picnic is a lighthearted and colorful tribute to the classic era of action RPGs! Join a sarcastic gardener and a wannabe knight as they journey across the kingdom chasing after ants who stole magic crystals from the castle.
 
@@ -159,8 +161,10 @@ MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, whe
 
 An open-ended tower-defense game with a focus on resource management.
 
-* ## Monster RPG 2
-[Game on Steam](https://store.steampowered.com/app/409370/Monster_RPG_2/) | [(incomplete) Source code](https://github.com/kraekin/monster-rpg-2) | [Website](https://nooskewl.ca/monster-rpg-2/)
+* ## ~~Monster RPG 2~~
+[Game on Steam](https://store.steampowered.com/app/409370/Monster_RPG_2/) | [(incomplete) Source code](https://github.com/kraekin/monster-rpg-2) | [Website](http://nooskewl.ca/monster-rpg-2/)
+
+WARNING: THIS GAME ISN'T AVAILABLE ON STEAM ANYMORE, BUT YOU CAN STILL DOWNLOAD IT FROM THE WEBSITE.
 
 Monster RPG 2 is a fantasy quest that spans continents and worlds and lets you take a simple villager and develop her into a hero with the power to save her world. 
 
