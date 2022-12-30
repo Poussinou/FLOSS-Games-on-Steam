@@ -239,12 +239,12 @@ Session Seven is a free point & click adventure game in which you play as Ryan, 
 shapez.io is a game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map.
 
 * ## Shattered Pixel Dungeon
-[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) | [Website](https://shatteredpixel.com/shatteredpd/) | [Donate](https://www.patreon.com/ShatteredPixel)
+[Game on Steam](https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/) | [Source Code](https://github.com/00-Evan/shattered-pixel-dungeon) | [Website](https://shatteredpixel.com/shatteredpd/) | [News](https://shatteredpixel.com/blog/) | [Donate](https://www.patreon.com/ShatteredPixel)
 
 Shattered Pixel Dungeon is a traditional roguelike dungeon crawler that's simple to start but hard to master!
 
 * ## Simutrans
-[Game on Steam](https://store.steampowered.com/app/434520/Simutrans/) | [Source Code](https://github.com/aburch/simutrans) | [Tutorials & Help](https://www.simutrans.com/help/) | [Website](https://www.simutrans.com/) | [News](https://forum.simutrans.com/index.php/board,2.0.html?PHPSESSID=256b73a4943aec9b8280bd57a261aa13) | [Forums](https://forum.simutrans.com/)
+[Game on Steam](https://store.steampowered.com/app/434520/Simutrans/) | [Source Code](https://github.com/aburch/simutrans) | [Tutorials & Help](https://www.simutrans.com/help/) | [Website](https://www.simutrans.com/) | [News](https://blog.simutrans.com/) | [Forums](https://forum.simutrans.com/)
 
 Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions
 
