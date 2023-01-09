@@ -308,6 +308,12 @@ Explore thirteen different castles, overcoming a variety of puzzles and traps wh
 
 Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what happened to indie devs and save the gaming industry!
 
+* ## Thrive
+
+[Game on Steam](https://store.steampowered.com/app/1779200/Thrive/) | [Source Code](https://github.com/Revolutionary-Games/Thrive) | [Tutorials & Help](https://thrive.fandom.com/wiki/Thrive_Wiki) | [Website](https://revolutionarygamesstudio.com/) | [News](https://revolutionarygamesstudio.com/devblog/) | [Forums](https://community.revolutionarygamesstudio.com/) | [Donate](https://revolutionarygamesstudio.com/donate/)
+
+An evolution simulation game. Take control of your species in the environment and edit your species as a whole. Compete with other evolving species for resources on an alien planet.
+
 * ## Tomantenquark
 [Game on Steam](https://store.steampowered.com/app/1274540/Tomatenquark/) | [Source Code](https://github.com/tomatenquark/code) | [Website](https://tomatenquark.org/)
 
@@ -349,7 +355,7 @@ Wyrmsun is a real-time strategy game which features elements of mythology, histo
 Zero-K is an expansive Real Time Strategy game. Fight epic battles over land, air and sea on 100s of maps. Manipulate the terrain and throw units around. Explore an abandoned galaxy, solo or co-op, in 70 campaign missions. Hop online for a tense 1v1 or massive battles with up to 32 players. 
 
 <!-- # Softwares
-Steam is also serving softwraes, and some of them are FLOSS, you can find them below.
+Steam is also serving softwares, and some of them are FLOSS, you can find them below.
 * ## Krita
 [Software on Steam](https://store.steampowered.com/app/280680/Krita/) | [Source Code]() | [Website](https://krita.org)
 Krita is a powerful digital painting application, made for illustrators, game artists, concept artists, animators, comic book artists and everyone who wants to draw and paint. -->
