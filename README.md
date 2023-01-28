@@ -96,6 +96,11 @@ Epicinium is a strategy game where nature is a finite resource. No need to wait 
 
 Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands of robots out to violate your warranty. Explore a procedurally generated sci-fi metropolis and the depths of corporate depravity, but never stop shooting...unless, of course, you're a Bad Robot. You're not, are you?-->
 
+* ## FreedroidRPG
+[Game on Steam](https://store.steampowered.com/app/1979930/FreedroidRPG/) | [Source Code](https://codeberg.org/freedroid/freedroid-src) | [GNU General Public License v2.0](https://gitlab.com/freedroid/freedroid-src/-/blob/master/COPYING) | [Website](https://www.freedroid.org/) | [Tutorials & Help](https://www.freedroid.org/player-section/) | [News](https://www.freedroid.org/news/) | [Forums](https://www.freedroid.org/contact/)
+
+FreedroidRPG is an open source sci-fi role playing game, where the player (playing as Tux) fights against hordes of bots in order to free humanity from rebel bots whom know no mercy. 
+
 * ## HookSharks
 [Game on Steam](https://store.steampowered.com/app/1266390/HookSharks/) | [Source Code](https://github.com/DoubleTroubleGames/hooksharks)
 
@@ -157,7 +162,7 @@ A free open-source circle-clicking rhythm game practice client for osu! beatmaps
 MegaGlest is an open source cross-platform 3D real-time strategy (RTS) game, where you control the armies of one of seven different factions: Tech, Magic, Egypt, Indians, Norsemen, Persian or Romans. The game is setup in one of 17 naturally looking settings, which -like the unit models- are crafted with great appreciation for detail.
 
 * ## Mindustry
-[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/) | [Source code](https://github.com/Anuken/Mindustry) | [Website](https://mindustrygame.github.io/)
+[Game on Steam](https://store.steampowered.com/app/1127400/Mindustry/) | [Source code](https://github.com/Anuken/Mindustry) | [Website](https://mindustrygame.github.io/) | [Tutorials & Help](https://mindustrygame.github.io/wiki/)
 
 An open-ended tower-defense game with a focus on resource management.
 
