@@ -101,6 +101,12 @@ Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands
 
 FreedroidRPG is an open source sci-fi role playing game, where the player (playing as Tux) fights against hordes of bots in order to free humanity from rebel bots whom know no mercy. 
 
+* ## Hedgewars
+
+[Game on Steam](https://store.steampowered.com/app/2223810/Hedgewars/) | [Source Code](https://hg.hedgewars.org/hedgewars/) ([Mirror on GitHub](https://github.com/hedgewars/hw)) | [GNU General Public License v2.0](https://github.com/Poussinou/hw/blob/master/COPYING) | [Website](https://www.hedgewars.org/) | [Tutorials & Help](https://www.hedgewars.org/wiki.html) | [News](https://www.hedgewars.org/) | [Forums](https://www.hedgewars.org/forum)
+
+Turn-based strategy, artillery, action and comedy game, featuring the antics of pink hedgehogs with attitude as they battle from the depths of hell to the depths of space.
+
 * ## HookSharks
 [Game on Steam](https://store.steampowered.com/app/1266390/HookSharks/) | [Source Code](https://github.com/DoubleTroubleGames/hooksharks)
 
