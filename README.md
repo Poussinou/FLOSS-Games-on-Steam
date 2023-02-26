@@ -282,7 +282,12 @@ Soldat is a unique 2D (side-view) multiplayer action game. It has been influence
 * ## Space Station 14
 [Game on Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Source Code](https://github.com/space-wizards/space-station-14) | [License MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT) | [Tutorials & Help](https://wiki.spacestation14.io/wiki/Main_Page) | [Website](https://spacestation14.io/) | [News](https://spacestation14.io/post/) | [Forums](https://forum.spacestation14.io/) | [Donate](https://www.patreon.com/spacestation14)
 
- Disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience. Sign up today to explore intricate game mechanics and enjoy limitless player interaction! (Nanotrasen Inc. is not responsible for injury, death, or worse). 
+Disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience. Sign up today to explore intricate game mechanics and enjoy limitless player interaction! (Nanotrasen Inc. is not responsible for injury, death, or worse). 
+
+* ## Star Ruler 2
+[Game on Steam](https://store.steampowered.com/app/282590/Star_Ruler_2/) | [Source Code](https://github.com/BlindMindStudios/StarRuler2-Source) | [License MIT](https://github.com/BlindMindStudios/StarRuler2-Source/blob/master/COPYING) | [Website](http://starruler2.com/)
+
+Massive scale 4X-RTS set in space. Control hundreds of planets, manipulate galactic politics, research numerous advanced technologies, and command thousands of units and hundreds of planets in your quest for galactic dominance.
 
 * ## SuperTux
 [Game on Steam](https://store.steampowered.com/app/1572920/SuperTux/) | [Source Code](https://github.com/SuperTux/supertux) | [License GPLv3](https://github.com/SuperTux/supertux/blob/master/LICENSE.txt) | [Website](https://www.supertux.org/) | [News](https://www.supertux.org/news/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=66) | [Donate](https://www.supertux.org/donate.html)
