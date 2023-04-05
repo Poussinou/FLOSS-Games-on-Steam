@@ -14,6 +14,11 @@ From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first
 
 Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.
 
+* ## Barony
+[Game on Steam](https://store.steampowered.com/app/371970/Barony/) | [Source Code](https://github.com/TurningWheel/Barony) | [Website](https://www.baronygame.com/) | [Tutorials & Help](https://baronygame.fandom.com/) | [Discord](https://discord.gg/94QgfdM)
+
+Barony is the premier first-person roguelike with cooperative play. Cryptic items, brutal traps, and devious monsters await you. Conquer the dungeon alone, or gather a party in co-op with iconic and unusual RPG classes. Get ready to try, and die, and try again with a new dungeon every time you play!
+
 * ## Battle for Wesnoth
 [Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
 
