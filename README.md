@@ -35,9 +35,14 @@ What if Breakout was the only arcade game people could make? An open-source game
 Steal everything you can and flee from the Burning Knight's castle in this action-packed roguelike! The game features tight bullet hell, tons of items, characters to meet... and secrets!
 
 * ## BYTEPATH
-[Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH) |
+[Game on Steam](https://store.steampowered.com/app/760330/BYTEPATH/) | [Source Code](https://github.com/a327ex/BYTEPATH)
 
 BYTEPATH is a replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies.
+
+* ## Cataclysm: Dark Days Ahead
+[Game on Steam](https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/) | [Source Code](https://github.com/CleverRaven/Cataclysm-DDA/) | [Website](https://cataclysmdda.org/) | [Tutorials & Help](https://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page) | [Forums](https://discourse.cataclysmdda.org/) | [Donate](https://cataclysmdda.org/donations/)
+
+The epitome of a modern traditional roguelike: with turn-based play and a RPG-like skill progression system, it hearkens back to some of the major aspects of this genre. This game has an incredible depth, with a deep inventory system, vehicles and boats, NPCs with their own stories, and more.
 
 * ## Cendric
 [Game on Steam](https://store.steampowered.com/app/681460/Cendric/) | [Source Code](https://github.com/tizian/Cendric2) | [Tutorials & Help](https://help.fandom.com/wiki/Contents) | [Website](http://cendric.ch/)
