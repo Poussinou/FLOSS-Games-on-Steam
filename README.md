@@ -106,10 +106,20 @@ Epicinium is a strategy game where nature is a finite resource. No need to wait 
 
 Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands of robots out to violate your warranty. Explore a procedurally generated sci-fi metropolis and the depths of corporate depravity, but never stop shooting...unless, of course, you're a Bad Robot. You're not, are you?-->
 
+* ## Flotilla
+[Game on Steam](https://store.steampowered.com/app/55000/Flotilla/) | [Source Code](https://github.com/blendogames/flotilla) | [zlib License](https://github.com/blendogames/flotilla/blob/master/LICENSE.md) | [Website](https://blendogames.com/flotilla/)
+
+Lead your orbital battleships to victory in Flotilla! Fight, trade, and explore new planets in your journey through the galaxy. Featuring tactically rich 3D combat, flank and surprise the enemy from any direction. And when the dust settles, generate another uniquely randomized universe for a brand-spanking new adventure!
+
 * ## FreedroidRPG
 [Game on Steam](https://store.steampowered.com/app/1979930/FreedroidRPG/) | [Source Code](https://codeberg.org/freedroid/freedroid-src) | [GNU General Public License v2.0](https://gitlab.com/freedroid/freedroid-src/-/blob/master/COPYING) | [Website](https://www.freedroid.org/) | [Tutorials & Help](https://www.freedroid.org/player-section/) | [News](https://www.freedroid.org/news/) | [Forums](https://www.freedroid.org/contact/)
 
-FreedroidRPG is an open source sci-fi role playing game, where the player (playing as Tux) fights against hordes of bots in order to free humanity from rebel bots whom know no mercy. 
+FreedroidRPG is an open source sci-fi role playing game, where the player (playing as Tux) fights against hordes of bots in order to free humanity from rebel bots whom know no mercy.
+
+* ## Gravity Bone
+[Game on Steam](https://store.steampowered.com/app/974090/Gravity_Bone/) | [Source Code](https://github.com/blendogames/gravitybone) | [GNU General Public License v2.0](https://github.com/blendogames/gravitybone/blob/master/LICENSE) | [Website](https://blendogames.com/gravitybone/)
+
+To make it in Nuevos Aires, one needs nerves of silk and the filthiest of hands.
 
 * ## Hedgewars
 
@@ -219,6 +229,11 @@ OpenTTD is a business simulation game in which players earn money by transportin
 
 Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.
 
+* ## Quadrilateral Cowboy
+[Game on Steam](https://store.steampowered.com/app/240440/Quadrilateral_Cowboy/) | [Source Code](https://github.com/blendogames/quadrilateralcowboy) | [GNU General Public License v3.0](https://github.com/blendogames/quadrilateralcowboy/blob/master/LICENSE) | [Website](https://blendogames.com/qc/)
+
+When you have a top-of-the-line hacking deck armed with a 56.6k modem and a staggering 256k RAM, it means just one thing: you answer only to the highest bidder.
+ 
 * ## Quaver
 [Game on Steam](https://store.steampowered.com/app/980610/Quaver/) | [Source Code](https://github.com/Quaver/Quaver) | [Website](https://quavergame.com/) | [Donate](https://quavergame.com/donate)
 
@@ -334,8 +349,12 @@ Explore thirteen different castles, overcoming a variety of puzzles and traps wh
 
 Explore the deepest SECRETs™ of the Tremendous Corporation®. Find out what happened to indie devs and save the gaming industry!
 
-* ## Thrive
+* ## Thirty Flights of Loving
+[Game on Steam](https://store.steampowered.com/app/214700/Thirty_Flights_of_Loving/) | [Source Code](https://github.com/blendogames/thirtyflightsofloving) | [GNU General Public License v2.0](https://github.com/blendogames/thirtyflightsofloving/blob/master/gnu.txt) | [Website](https://blendogames.com/thirtyflightsofloving/)
 
+Explore the world of Thirty Flights of Loving through a first-person short story. Take a deep dive with high-flying schemers, lovelorn criminals, and more stray kittens than you can shake a stick at.
+
+* ## Thrive
 [Game on Steam](https://store.steampowered.com/app/1779200/Thrive/) | [Source Code](https://github.com/Revolutionary-Games/Thrive) | [Tutorials & Help](https://thrive.fandom.com/wiki/Thrive_Wiki) | [Website](https://revolutionarygamesstudio.com/) | [News](https://revolutionarygamesstudio.com/devblog/) | [Forums](https://community.revolutionarygamesstudio.com/) | [Donate](https://revolutionarygamesstudio.com/donate/)
 
 An evolution simulation game. Take control of your species in the environment and edit your species as a whole. Compete with other evolving species for resources on an alien planet.
