@@ -249,6 +249,12 @@ Building on over 12 years of gameplay design, Red Eclipse 2 focuses on fast pace
 
 Relic Hunters Zero is a game about shooting evil space ducks and evil space turtles with tiny cute guns. It’s fast, it’s tactical, and feels delicious and smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander. 
 
+* ## ROTA
+
+[Game on Steam](https://store.steampowered.com/app/1993830/ROTA/) | [Source Code](https://github.com/HarmonyHoney/ROTA) | [GNU General Public License v3.0](https://github.com/HarmonyHoney/ROTA/blob/master4/LICENSE) | [Website](https://harmonyhoney.github.io/index.html?page=rota) | [Forums](https://discord.gg/qGKzEykNyA)
+
+In ROTA gravity bends beneath your feet! Move blocks and twist gravity to solve puzzles. Collect all 50 gems and explore 8 vibrant worlds!
+
 * ## Ryzom
 [Game on Steam](https://store.steampowered.com/app/373720/Ryzom/) | [Source Code](https://bitbucket.org/account/user/ryzom/projects/PROJ) | [Website](https://ryzom.com/) | [News](https://app.ryzom.com/app_forum/index.php?page=forum/view/1839) | [Forums](https://app.ryzom.com/app_forum/)
 
