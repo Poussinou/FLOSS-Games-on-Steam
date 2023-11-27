@@ -5,22 +5,27 @@ Here is a list of free/libre and open source games that are available on [Steam]
 Most of the time, the games here are totally FLOSS, where every assets, ressource files, source code, etc are free and open-source. Some games here need an original ressource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the ressources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not free/libre.
 
 * ## Amnesia: A Machine for Pigs
-[Game on Steam](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/) | [Source Code](https://github.com/FrictionalGames/AmnesiaAMachineForPigs) | [Website](http://www.aamfp.com/info)
+[Game on Steam](https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/) | [Source Code](https://github.com/FrictionalGames/AmnesiaAMachineForPigs) | [GNU General Public License v3.0](https://github.com/FrictionalGames/AmnesiaAMachineForPigs/blob/master/LICENSE) | [Website](http://www.aamfp.com/info)
 
 From the creators of Amnesia: The Dark Descent and Dear Esther comes a new first-person horrorgame that will drag you to the depths of greed, power and madness. It will bury its snout into your ribs and it will eat your heart.
 
 * ## Amnesia: The Dark Descent
-[Game on Steam](https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent) | [Source Code](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) | [Website](http://www.amnesiagame.com/#main)
+[Game on Steam](https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent) | [Source Code](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) | [GNU General Public License v3.0](https://github.com/FrictionalGames/AmnesiaTheDarkDescent/blob/master/LICENSE) | [Website](http://www.amnesiagame.com/#main)
 
 Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.
 
+* ## Astral Shipwright
+[Game on Steam](https://store.steampowered.com/app/1728180/Astral_Shipwright/) | [Source Code](https://github.com/Poussinou/AstralShipwright) | [BSD 3-Clause "New" or "Revised" License](https://github.com/strangergwenn/AstralShipwright/blob/master/LICENSE.txt) | [Website](https://astralshipwright.com/)
+
+Build and upgrade your personal ship to travel around a strange planet.
+
 * ## Barony
-[Game on Steam](https://store.steampowered.com/app/371970/Barony/) | [Source Code](https://github.com/TurningWheel/Barony) | [Website](https://www.baronygame.com/) | [Tutorials & Help](https://baronygame.fandom.com/) | [Discord](https://discord.gg/94QgfdM)
+[Game on Steam](https://store.steampowered.com/app/371970/Barony/) | [Source Code](https://github.com/TurningWheel/Barony) | [BSD 2-Clause License](https://github.com/TurningWheel/Barony/blob/master/LICENSE.txt) | [Website](https://www.baronygame.com/) | [Tutorials & Help](https://baronygame.fandom.com/) | [Discord](https://discord.gg/94QgfdM)
 
 Barony is the premier first-person roguelike with cooperative play. Cryptic items, brutal traps, and devious monsters await you. Conquer the dungeon alone, or gather a party in co-op with iconic and unusual RPG classes. Get ready to try, and die, and try again with a new dungeon every time you play!
 
 * ## Battle for Wesnoth
-[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
+[Game on Steam](https://store.steampowered.com/app/599390/Battle_for_Wesnoth/) | [Source code](https://github.com/wesnoth/wesnoth) | [GNU General Public License v2.0](https://github.com/wesnoth/wesnoth/blob/master/COPYING) | [Tutorials & Help](https://wiki.wesnoth.org/Play) | [Website](https://www.wesnoth.org/) | [News](https://forums.wesnoth.org/viewforum.php?f=62) | [Forums](https://forums.wesnoth.org/) | [Donate](https://liberapay.com/Wesnoth/donate)
 
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.
 
@@ -102,7 +107,7 @@ Endless Sky is a 2D space trading and combat game inspired by the classic Escape
 Epicinium is a strategy game where nature is a finite resource. No need to wait for your move, thanks to fast, simultaneous turns. Your economy and troops are influenced by the environment and increasingly severe weather effects. Is it worth winning a war when you end up conquering dirt and ash?
 
 <!--* ## Good Robot
-[Game on Steam](https://store.steampowered.com/app/358830/Good_Robot/) | [Source Code](https://github.com/arvindrajayadav/Good-Robot) | Website](https://pyrodactyl.com/good-robot/)
+[Game on Steam](https://store.steampowered.com/app/358830/Good_Robot/) | [Source Code](https://github.com/arvindrajayadav/Good-Robot) | [Website](https://pyrodactyl.com/good-robot/)
 
 Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands of robots out to violate your warranty. Explore a procedurally generated sci-fi metropolis and the depths of corporate depravity, but never stop shooting...unless, of course, you're a Bad Robot. You're not, are you?-->
 
@@ -122,10 +127,14 @@ FreedroidRPG is an open source sci-fi role playing game, where the player (playi
 To make it in Nuevos Aires, one needs nerves of silk and the filthiest of hands.
 
 * ## Hedgewars
-
-[Game on Steam](https://store.steampowered.com/app/2223810/Hedgewars/) | [Source Code](https://hg.hedgewars.org/hedgewars/) ([Mirror on GitHub](https://github.com/hedgewars/hw)) | [GNU General Public License v2.0](https://github.com/Poussinou/hw/blob/master/COPYING) | [Website](https://www.hedgewars.org/) | [Tutorials & Help](https://www.hedgewars.org/wiki.html) | [News](https://www.hedgewars.org/) | [Forums](https://www.hedgewars.org/forum)
+[Game on Steam](https://store.steampowered.com/app/2223810/Hedgewars/) | [Source Code](https://hg.hedgewars.org/hedgewars/) ([Mirror on GitHub](https://github.com/hedgewars/hw)) | [GNU General Public License v2.0](https://github.com/hedgewars/hw/blob/master/COPYING) | [Website](https://www.hedgewars.org/) | [Tutorials & Help](https://www.hedgewars.org/wiki.html) | [News](https://www.hedgewars.org/) | [Forums](https://www.hedgewars.org/forum)
 
 Turn-based strategy, artillery, action and comedy game, featuring the antics of pink hedgehogs with attitude as they battle from the depths of hell to the depths of space.
+
+* ## Helium Rain
+[Game on Steam](https://store.steampowered.com/app/681330/Helium_Rain/) | [Source Code](https://github.com/strangergwenn/HeliumRain) | [BSD 3-Clause "New" or "Revised" License](https://github.com/strangergwenn/HeliumRain/blob/master/LICENSE.txt) | [Website](https://helium-rain.com/) | [Tutorials & Help](https://helium-rain.com/guide)
+
+Trade your wares and eliminate the competition in a cutthroat world. Buy new ships and stations to mine and haul resources. Explore the vast emptiness of space.
 
 * ## HookSharks
 [Game on Steam](https://store.steampowered.com/app/1266390/HookSharks/) | [Source Code](https://github.com/DoubleTroubleGames/hooksharks)
@@ -250,7 +259,6 @@ Building on over 12 years of gameplay design, Red Eclipse 2 focuses on fast pace
 Relic Hunters Zero is a game about shooting evil space ducks and evil space turtles with tiny cute guns. It’s fast, it’s tactical, and feels delicious and smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander. 
 
 * ## ROTA
-
 [Game on Steam](https://store.steampowered.com/app/1993830/ROTA/) | [Source Code](https://github.com/HarmonyHoney/ROTA) | [GNU General Public License v3.0](https://github.com/HarmonyHoney/ROTA/blob/master4/LICENSE) | [Website](https://harmonyhoney.github.io/index.html?page=rota) | [Forums](https://discord.gg/qGKzEykNyA)
 
 In ROTA gravity bends beneath your feet! Move blocks and twist gravity to solve puzzles. Collect all 50 gems and explore 8 vibrant worlds!
