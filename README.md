@@ -390,10 +390,10 @@ Vulture for NetHack is an isometric graphical interface for the roguelike engine
 
 Warfork is a demanding fast paced first person shooter with a focus on speed, aim, movement, and above all competitive play.
 
-* ## Warzone 2100
+<!--* ## Warzone 2100
 [Game on Steam](https://store.steampowered.com/app/1241950/Warzone_2100/) | [Source Code](https://github.com/Warzone2100/warzone2100) | [Tutorials & Help](https://betaguide.wz2100.net/) | [Website](https://wz2100.net) | [Forums](https://forums.wz2100.net/) | [Donate](https://donations.wz2100.net/)
 
-In the late 21st century, the world's civilizations are wiped out by a series of nuclear strikes, seemingly caused by a massive malfunction of the new NASDA (North American Strategic Defense Agency) strategic defense system. Warzone 2100, released in 1999 and developed by Pumpkin Studios, was a ground-breaking and innovative 3D real-time strategy game.
+In the late 21st century, the world's civilizations are wiped out by a series of nuclear strikes, seemingly caused by a massive malfunction of the new NASDA (North American Strategic Defense Agency) strategic defense system. Warzone 2100, released in 1999 and developed by Pumpkin Studios, was a ground-breaking and innovative 3D real-time strategy game.-->
 
 * ## Wyrmsun
 [Game on Steam](http://store.steampowered.com/app/370070/Wyrmsun/) | [Source Code](https://github.com/andrettin/wyrmsun) | [Website](https://andrettin.github.io/) | [Forums](https://forum.freegamedev.net/viewforum.php?f=93)
