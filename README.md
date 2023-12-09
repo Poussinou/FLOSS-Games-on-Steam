@@ -848,7 +848,7 @@ Krita is a powerful digital painting application, made for illustrators, game ar
 
 ### To-Do
 * Addons supported/extendable ?
-* Platforms supported ?
+* ~~Platforms supported ?~~
 * Cost ?
 * Add license (and specificaitons for assets, most of the time they aren't floss) ?
 * Link to Direct Download ?
