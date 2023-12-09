@@ -918,10 +918,10 @@ Krita is a powerful digital painting application, made for illustrators, game ar
 
 
 ### To-Do
-* Addons supported/extendable ?
-* ~~Platforms supported ?~~
-* Cost ?
-* Add license (and specificaitons for assets, most of the time they aren't floss) ?
-* Link to Direct Download ?
+* Addons supported/extendable?
+* ~~Platforms supported?~~
+* Cost?
+* Add license (and specificaitons for assets, most of the time they aren't floss)?
+* Link to Direct Download?
 
 I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/), but I found some others somewhere on the internet, I can't remember where... Thanks to contributors that added Games via Issues or Pull Requests.
