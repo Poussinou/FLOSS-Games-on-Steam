@@ -35,7 +35,7 @@ Amnesia: The Dark Descent, a first person survival horror. A game about immersio
 ![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
 
 <!-- HyperLinks -->
-[Game on Steam](https://store.steampowered.com/app/1728180/Astral_Shipwright/) | [Source Code](https://github.com/Poussinou/AstralShipwright) | [BSD 3-Clause "New" or "Revised" License](https://github.com/strangergwenn/AstralShipwright/blob/master/LICENSE.txt) | [Website](https://astralshipwright.com/)
+[Game on Steam](https://store.steampowered.com/app/1728180/Astral_Shipwright/) | [Source Code](https://github.com/strangergwenn/AstralShipwright) | [BSD 3-Clause "New" or "Revised" License](https://github.com/strangergwenn/AstralShipwright/blob/master/LICENSE.txt) | [Website](https://astralshipwright.com/)
 
 Build and upgrade your personal ship to travel around a strange planet.
 
