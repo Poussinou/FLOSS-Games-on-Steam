@@ -276,6 +276,18 @@ FreedroidRPG is an open source sci-fi role playing game, where the player (playi
 To make it in Nuevos Aires, one needs nerves of silk and the filthiest of hands.
 
 
+## Half-Earth Socialism
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/2071530/HalfEarth_Socialism/) | [Source Code](https://github.com/frnsys/half_earth) | [GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/frnsys/half_earth/blob/main/LICENSE) | [Website](https://play.half.earth/)
+
+Try your hand as a global planner of a future society. Play with a wide range of technologies and policies spanning different fields and ideologies. Will you lead the world to ecological utopia or planetary ruin? 
+
+
 ## Hedgewars
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
