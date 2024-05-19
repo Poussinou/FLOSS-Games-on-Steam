@@ -845,9 +845,10 @@ An evolution simulation game. Take control of your species in the environment an
 ![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
 
 <!-- HyperLinks -->
-[Game on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
+[Mod on Steam](https://store.steampowered.com/app/1281930/tModLoader/) | [Source Code](https://github.com/tModLoader/tModLoader) | [Website](www.tmodloader.net/) | [Donate](https://www.patreon.com/tmodloader)
 
-Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!
+Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!\
+_Note: In order to use this mod, you need to own [Terraria](https://store.steampowered.com/app/105600/Terraria/) on the Steam. Terraria is not FLOSS, but proprietary software._
 
 
 ## Tomantenquark
