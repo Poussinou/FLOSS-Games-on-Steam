@@ -804,6 +804,17 @@ The Castle Doctrine is a massively-multiplayer game of burglary and home defense
 Explore thirteen different castles, overcoming a variety of puzzles and traps while you attempt to escape.
 
 
+## The Colorful Creature
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1651680/The_Colorful_Creature/) | [Source Code](https://github.com/Infiland/TheColorfulCreature) | [Donate](https://ko-fi.com/infiland)
+
+The Colorful Creature is difficult platformer with puzzle color mechanics. Play over 300 levels with diverse gameplay that have many items and hazards, in-game level editor, local multiplayer, endless run, customizable skins & hats, steam workshop and more!
+
+
 ## The Secret of Tremendous Corporation
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
