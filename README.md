@@ -5,6 +5,16 @@ Here is a list of free/libre and open source games that are available on [Steam]
 Most of the time, the games here are totally FLOSS, where every assets, resource files, source code, etc are free and open-source. Some games here need an original resource file to be played (or they are included in the Steam release but not in the floss source code), even if they are on Steam. It means, some games listed here are open source game engine where you have to own a copy of the game to play it because the resources needed to play sometimes aren't open source. This list doesn't include games where the source code is open, but not free/libre.
 
 
+## Alien Swarm: Reactive Drop
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/563560/Alien_Swarm_Reactive_Drop/) | [Source Code](https://github.com/ReactiveDrop/reactivedrop_public_src) | [Website](https://reactivedrop.com/)
+
+Co-operative top-down shooter game available for free. An epic bug hunt featuring a unique blend of co-op play and squad-level tactics.
+
+
 ## Amnesia: A Machine for Pigs
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
