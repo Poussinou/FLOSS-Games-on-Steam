@@ -956,18 +956,12 @@ Wyrmsun is a real-time strategy game which features elements of mythology, histo
 
 Zero-K is an expansive Real Time Strategy game. Fight epic battles over land, air and sea on 100s of maps. Manipulate the terrain and throw units around. Explore an abandoned galaxy, solo or co-op, in 70 campaign missions. Hop online for a tense 1v1 or massive battles with up to 32 players. 
 
-<!-- # Softwares
-Steam is also serving softwares, and some of them are FLOSS, you can find them below.
-* ## Krita
-[Software on Steam](https://store.steampowered.com/app/280680/Krita/) | [Source Code]() | [Website](https://krita.org)
-Krita is a powerful digital painting application, made for illustrators, game artists, concept artists, animators, comic book artists and everyone who wants to draw and paint. -->
-
 
 ### To-Do
 * Addons supported/extendable?
+* Add FLOSS software available on Steam
+* Add more FLOSS mods (only 1 listed for now)
 * ~~Platforms supported?~~
-* Cost?
-* Add license (and specificaitons for assets, most of the time they aren't floss)?
-* Link to Direct Download?
+* Add license (and specifications for assets, most of the time they aren't floss)?
 
-I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/), but I found some others somewhere on the internet, I can't remember where... Thanks to contributors that added Games via Issues or Pull Requests.
+I found a lot of references thanks to [this curator](https://store.steampowered.com/curator/9035867-Open-Source-Community/) and [this one as well](https://store.steampowered.com/curator/38475471-Libre-Open-Source-Games/), but I found some others somewhere on the internet, I can't remember where... Thanks to all the contributors who added Games, Mods and Software via Issues or Pull Requests.
