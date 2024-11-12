@@ -825,6 +825,18 @@ Explore thirteen different castles, overcoming a variety of puzzles and traps wh
 The Colorful Creature is difficult platformer with puzzle color mechanics. Play over 300 levels with diverse gameplay that have many items and hazards, in-game level editor, local multiplayer, endless run, customizable skins & hats, steam workshop and more!
 
 
+## The Powder Toy
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1148350/The_Powder_Toy/) | [Source Code](https://github.com/The-Powder-Toy/The-Powder-Toy) | [GNU General Public License v3.0](https://github.com/The-Powder-Toy/The-Powder-Toy/blob/master/LICENSE) | [Website](https://powdertoy.co.uk/) | [Forums](https://powdertoy.co.uk/Discussions/Categories/Index.html) | [Tutorials & Help](https://powdertoy.co.uk/Wiki/W/Main_Page.html) | [Items made by other players](https://powdertoy.co.uk/Browse.html)
+
+The Powder Toy is a classic physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances
+
+
 ## The Secret of Tremendous Corporation
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
