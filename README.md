@@ -444,7 +444,7 @@ Lazy Chess is a new non-profit chess game that narrows your choices down to the 
 <!-- HyperLinks -->
 [Game on Steam](https://store.steampowered.com/app/397330/Little_Big_Adventure__Enhanced_Edition/) | [Source Code (classic)](https://github.com/2point21/lba1-classic) | [Source Code (community)](https://github.com/2point21/lba1-classic-community) | [Licence GPLv2](https://github.com/2point21/lba1-classic/blob/main/LICENSE) | [Facebook](https://www.facebook.com/LittleBigAdventureOfficial)
 
-Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal. The source code for both orginal games was released in 2021 under floss license, however **the assets are not floss**.
+Originally released in 1994, Little Big Adventure, also known as Relentless: Twinsen’s Adventure, is an action-adventure RPG designed by Frédérick Raynal. The source code for both original games was released in 2021 under floss license, however **the assets are not floss**.
 
 
 ## Little Big Adventure 2
