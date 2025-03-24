@@ -245,17 +245,15 @@ Pilot your ship in the seamless open world made of space, planets, and more. Fin
 
 Build a colony of ruthless capitalist Dwarves in a strange fantasy land.
 
-
 ## EmptyEpsilon
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
 
 <!-- HyperLinks -->
-[Game on Steam](https://store.steampowered.com/app/1907040/EmptyEpsilon/) | [Source code](https://github.com/daid/EmptyEpsilon) | [Website](https://daid.github.io/EmptyEpsilon/)
+[Game on Steam](https://store.steampowered.com/app/1907040/EmptyEpsilon/) | [Source code](https://github.com/daid/EmptyEpsilon) | [Website](https://daid.github.io/EmptyEpsilon/) 
 
-A Co-op spaceship bridge simulator where you form a crew of 3 to 6 players serving in various roles like Captain, Helms, Relay, Weapons and Science officer. It's designed to run on almost any system and to be highly customizable due to it's extensive GM screen and powerful scripting capabilities.
-
+ A Co-op spaceship bridge simulator where you form a crew of 3 to 6 players serving in various roles like Captain, Helms, Relay, Weapons and Science officer. It's designed to run on almost any system and to be highly customizable due to it's extensive GM screen and powerful scripting capabilities. 
 
 ## Endless Sky
 <!-- Supported Operating Systems -->
