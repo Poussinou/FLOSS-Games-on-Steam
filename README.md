@@ -651,6 +651,16 @@ When you have a top-of-the-line hacking deck armed with a 56.6k modem and a stag
 
 Quaver is a community-driven and open-source competitive rhythm game with two game modes and online leaderboards. Create your own maps or challenge the world in online multiplayer matches.
 
+## Racingmaybe
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1261300/Racingmaybe/) | [Source Code](https://github.com/jhoffis/Racingmaybe_open/)
+
+Turn-based drag-racing game with an upgrading system that is way too deep. Choose between endless different ways to get your car to go really really fast – as long as you’re able to control it! Question is, who will break the sound-barrier first? You or the guy behind?
 
 ## Red Eclipse 2
 <!-- Supported Operating Systems -->
