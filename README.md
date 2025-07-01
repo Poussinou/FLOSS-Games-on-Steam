@@ -98,6 +98,17 @@ Bitburner is a programming-based incremental game. Write scripts in JavaScript t
 Blender is the free and open source 3D creation suite. Free to use for everyone, for any purpose.
 
 
+## Brawl
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1007820/Brawl/) | [Source Code](https://github.com/milgra/brawl) | [Licence GNU GPLv3](https://github.com/milgra/brawl/blob/main/LICENSE) 
+
+Brawl is a game about intense action with super realistic physics. You have to lead your gang to victory in a crime-infected town.
+
+
 ## Break Arcade Games Out
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
