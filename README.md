@@ -527,6 +527,18 @@ WARNING: THIS GAME ISN'T AVAILABLE ON STEAM ANYMORE, BUT YOU CAN STILL DOWNLOAD 
 Monster RPG 2 is a fantasy quest that spans continents and worlds and lets you take a simple villager and develop her into a hero with the power to save her world. 
 
 
+## Mountaincore
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/2370310/Mountaincore/) | [Source Code](https://github.com/rossturner/mountaincore) | [Licence MIT](https://github.com/rossturner/mountaincore/blob/master/LICENSE) | [Forums](https://github.com/rossturner/mountaincore/blob/master/LICENSE)
+
+Settle an untamed wilderness with the might of Dwarven engineering and thoughtful planning! Design and build your colony towards fame and fortune in a deeply-simulated fantasy world. Chill out in peaceful mode with a bustling settlement, or fight for survival against monsters and invasions!
+
+
 ## Naev
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
@@ -841,6 +853,18 @@ Disasters, enemies, and incompetence conspire to make each shift aboard the stat
 [Game on Steam](https://store.steampowered.com/app/282590/Star_Ruler_2/) | [Source Code](https://github.com/BlindMindStudios/StarRuler2-Source) | [License MIT](https://github.com/BlindMindStudios/StarRuler2-Source/blob/master/COPYING) | [Website](http://starruler2.com/)
 
 Massive scale 4X-RTS set in space. Control hundreds of planets, manipulate galactic politics, research numerous advanced technologies, and command thousands of units and hundreds of planets in your quest for galactic dominance.
+
+
+## Superflu
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/1753370/Superflu_Riteurnz/) | [Source Code](https://framagit.org/Gee/sosage) & [Assets](https://studios.ptilouk.net/superflu-riteurnz/floss/) | [License MIT](https://framagit.org/Gee/sosage/-/blob/f96721a231830efc9753bd1f610b261c8f1b3193/LICENSE.md) | [Website](https://studios.ptilouk.net/superflu-riteurnz/) | [News](https://studios.ptilouk.net/superflu-riteurnz/blog/) | [Donate](https://buy.stripe.com/eVadRgdBj3aH7fO4gk)
+
+The adventures of Superfluous, a very useless superhero in a peaceful village in the deep French countryside: helped by his assistant Sophie, who tries to somehow temper the enthusiasm of her employer, he will try to apprehend the mysterious apple thief who terrorizes the orchards of the village.
 
 
 ## SuperTux
