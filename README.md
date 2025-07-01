@@ -899,7 +899,17 @@ Classic 2D jump'n'run sidescroller featuring Tux the penguin. Run and jump throu
 <!-- HyperLinks -->
 [Game on Steam](https://store.steampowered.com/app/259680/Tales_of_MajEyal/) | [Source Code](https://te4.org/download) | [License GPLv3](https://te4.org/license) | [Tutorials & Help](https://te4.org/wiki/Tales_of_Maj%27Eyal_Wiki) | [Website](https://te4.org/) | [News](https://te4.org/news) | [Forums](https://forums.te4.org/) | [Donate](https://te4.org/donate)
 
-Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of...
+Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of equipment.
+
+
+## Tanks of Freedom II
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+
+<!-- HyperLinks -->
+[Game on Steam](https://store.steampowered.com/app/3071660/Tanks_of_Freedom_II/) | [Source Code](https://github.com/P1X-in/tanks-of-freedom-ii) | [License MIT](https://github.com/P1X-in/tanks-of-freedom-ii/blob/master/LICENSE.md) | [Website](https://czlowiekimadlo.itch.io/tanks-of-freedom-ii)
+
+A turn-based strategy with up to four armies fighting against each other. Challenge yourself in a campaign against AI, or a hot-seat battle with a friend. Follow the story of Prince Tybalt and restore peace in the Amber Noon kingdom.
 
 
 ## Teeworlds
