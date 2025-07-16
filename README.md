@@ -651,6 +651,17 @@ Unleash your creativity with Pixelorama, a powerful and accessible open-source p
 PixiEditor is a pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme. Have you ever used Photoshop, Gimp or Aseprite? We want users to get familiar with the tool quickly and with ease.
 
 
+## Postal
+<!-- Supported Operating Systems -->
+![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MacOS-f0f0f0?style=for-the-badge&logo=apple&logoColor=black)
+![Static Badge](https://img.shields.io/badge/SteamOS%2FLinux-%23272932?style=for-the-badge&logo=steam)
+
+<!-- HyperLinks -->
+[Software on Steam](https://store.steampowered.com/app/232770/POSTAL/) | [Source Code](https://github.com/RWS-Studios/POSTAL-SourceCode) | [GNU General Public License v2.0](https://github.com/RWS-Studios/POSTAL-SourceCode/blob/master/LICENSE) | [Website](https://runningwithscissors.com/games/postal/)
+
+POSTAL is an isometric shooter filled to the brim with fast-paced explosive action. Blast, maim and fire-bomb your way through 17 unsuspecting locales, from a small town to a heavily guarded military complex. Don’t get too crazy – this killing spree is anything but senseless. Out here, strategy is key and the locals are packin’
+
 ## Quadrilateral Cowboy
 <!-- Supported Operating Systems -->
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
