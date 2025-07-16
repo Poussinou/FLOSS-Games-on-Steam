@@ -646,7 +646,7 @@ Unleash your creativity with Pixelorama, a powerful and accessible open-source p
 ![Static Badge](https://img.shields.io/badge/Windows-2f81f7?style=for-the-badge&logo=windows10&logoColor=white)
 
 <!-- HyperLinks -->
-[Software on Steam](https://store.steampowered.com/app/2218560/PixiEditor__Pixel_Art_Editor/) | [Source Code](https://github.com/Orama-Interactive/Pixelorama) | [GNU Lesser General Public License v3.0](https://github.com/Orama-Interactive/Pixelorama/blob/master/LICENSE) | [Website](https://pixieditor.net/) | [Donate](https://pixieditor.net/donate)
+[Software on Steam](https://store.steampowered.com/app/2218560/PixiEditor__Pixel_Art_Editor/) | [Source Code](https://github.com/PixiEditor/PixiEditor) | [GNU Lesser General Public License v3.0](https://github.com/PixiEditor/PixiEditor/blob/master/LICENSE) | [Website](https://pixieditor.net/) | [Donate](https://pixieditor.net/donate)
 
 PixiEditor is a pixel art editing software. Create beautiful sprites for your games and edit images. All packed in an eye-friendly dark theme. Have you ever used Photoshop, Gimp or Aseprite? We want users to get familiar with the tool quickly and with ease.
 
