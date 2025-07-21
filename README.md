@@ -460,8 +460,6 @@ Endless Sky is a 2D space trading and combat game inspired by the classic Escape
 Epicinium is a strategy game where nature is a finite resource. No need to wait for your move, thanks to fast, simultaneous turns. Your economy and troops are influenced by the environment and increasingly severe weather effects. Is it worth winning a war when you end up conquering dirt and ash?
 
 
-<!--* 
-
 <!-- Images -->
 <p float="left">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286730/ss_7ec773582aceaf747812f410c50b05f6036ca019.1920x1080.jpg?t=1687611671" width="32%" />
@@ -470,17 +468,18 @@ Epicinium is a strategy game where nature is a finite resource. No need to wait 
 </p>
 
 
+<!--*
 ## Good Robot
 [Game on Steam](https://store.steampowered.com/app/358830/Good_Robot/) | [Source Code](https://github.com/arvindrajayadav/Good-Robot) | [Website](https://pyrodactyl.com/good-robot/)
 
-Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands of robots out to violate your warranty. Explore a procedurally generated sci-fi metropolis and the depths of corporate depravity, but never stop shooting...unless, of course, you're a Bad Robot. You're not, are you?-->
+Good Robot is a fast-paced roguelike shoot-em-up that pits you against thousands of robots out to violate your warranty. Explore a procedurally generated sci-fi metropolis and the depths of corporate depravity, but never stop shooting...unless, of course, you're a Bad Robot. You're not, are you?
 
-<!-- Images -->
 <p float="left">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/358830/ss_e8547d7b68de34528e38dbe7cd69f6d9969fd806.1920x1080.jpg?t=1725109057" width="32%" />
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/358830/ss_f46fde06257eefc81cdd28a4a811871ffb8f17fe.1920x1080.jpg?t=1725109057" width="32%" />
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/358830/ss_204cd6aac682551921f317a26a2c87bcf3f31a52.1920x1080.jpg?t=1725109057" width="32%" />
 </p>
+-->
 
 
 ## Flotilla
@@ -768,8 +767,6 @@ Originally released in 1994, Little Big Adventure, also known as Relentless: Twi
 
 The sequel of Little Big Adventure. After saving the world from the evilish Doctor Funfrock, Twinsen is now ready to face a new threat coming from outer space. The source code is floss, but **the assets are not floss**.
 
-<!--* 
-
 <!-- Images -->
 <p float="left">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/398000/ss_627d569eea2dec050b8a510027dfe62e2ece6d3c.1920x1080.jpg?t=1678971944" width="32%" />
@@ -778,18 +775,18 @@ The sequel of Little Big Adventure. After saving the world from the evilish Doct
 </p>
 
 
+<!--* 
 ## Lugaru
 [Game on Steam](https://store.steampowered.com/app/25010/Lugaru_HD/) | [Source Code](https://gitlab.com/osslugaru/lugaru) | [Website](https://osslugaru.gitlab.io/)
 
-Follow Turner, a rebel bunny rabbit with impressive combat skills in his quest to find those responsible for slaughtering his village. Uncover a far-reaching conspiracy involving the corrupt leaders of the rabbit republic and the wolves of the nearby lands. Streamlined Combat: Gone are the days of combo memorization and button mashing.-->
+Follow Turner, a rebel bunny rabbit with impressive combat skills in his quest to find those responsible for slaughtering his village. Uncover a far-reaching conspiracy involving the corrupt leaders of the rabbit republic and the wolves of the nearby lands. Streamlined Combat: Gone are the days of combo memorization and button mashing.
 
-<!-- Images -->
 <p float="left">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/25010/ss_c4d0d9e50c91331d9f2f58b2004a7457345d0492.1920x1080.jpg?t=1750368738" width="32%" />
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/25010/ss_5d7acc125d781e7a2b8e2422179098e5e44da340.1920x1080.jpg?t=1750368738" width="32%" />
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/25010/ss_8f7930cdde959a1e6a4bf8b86ee6c2ba4ea1f38d.1920x1080.jpg?t=1750368738" width="32%" />
 </p>
-
+-->
 
 ## Marvellous Inc.
 <!-- Supported Operating Systems -->
@@ -1777,8 +1774,6 @@ Vulture for NetHack is an isometric graphical interface for the roguelike engine
 Warfork is a demanding fast paced first person shooter with a focus on speed, aim, movement, and above all competitive play.
 
 
-<!--* 
-
 <!-- Images -->
 <p float="left">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671610/ss_22d3ef7cb3bc736afb1fa527b3963e8d50a3e86e.1920x1080.jpg?t=1693704791" width="32%" />
@@ -1787,17 +1782,18 @@ Warfork is a demanding fast paced first person shooter with a focus on speed, ai
 </p>
 
 
+<!--* 
 ## Warzone 2100
 [Game on Steam](https://store.steampowered.com/app/1241950/Warzone_2100/) | [Source Code](https://github.com/Warzone2100/warzone2100) | [Tutorials & Help](https://betaguide.wz2100.net/) | [Website](https://wz2100.net) | [Forums](https://forums.wz2100.net/) | [Donate](https://donations.wz2100.net/)
 
-In the late 21st century, the world's civilizations are wiped out by a series of nuclear strikes, seemingly caused by a massive malfunction of the new NASDA (North American Strategic Defense Agency) strategic defense system. Warzone 2100, released in 1999 and developed by Pumpkin Studios, was a ground-breaking and innovative 3D real-time strategy game.-->
+In the late 21st century, the world's civilizations are wiped out by a series of nuclear strikes, seemingly caused by a massive malfunction of the new NASDA (North American Strategic Defense Agency) strategic defense system. Warzone 2100, released in 1999 and developed by Pumpkin Studios, was a ground-breaking and innovative 3D real-time strategy game.
 
-<!-- Images -->
 <p float="left">
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241950/ss_e5c0abc792108d211343efeddf02f2488b7f1301.1920x1080.jpg?t=1584419815" width="32%" />
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241950/ss_48dab20fde9bba877beafcde62730dd03cfa8867.1920x1080.jpg?t=1584419815" width="32%" />
   <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241950/ss_1592e25b90bfb4a184f922a622d1b3011c6f4216.1920x1080.jpg?t=1584419815" width="32%" />
 </p>
+-->
 
 
 ## Wyrmsun
